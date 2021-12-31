@@ -13,8 +13,8 @@ from fake_useragent import UserAgent
     # url file loading and cleaning process
 def load_list(file_name, list):
 
-    print("Starting loading list")
-    print("with file name: " + file_name)
+    #print("Starting loading list")
+    #print("with file name: " + file_name)
 
     memory = []
 
@@ -91,15 +91,15 @@ def get_url(url):
         #print(output)
         output = stop_list(str(output))
 
-        text_score = content_evaluation(str(output))
-        #print("TEXT SCORE: " + str(text_score))
-        
         spam_score, output = spam_evaluation(str(output))
         #print("SPAM SCORE: " + str(spam_score))
 
         quality_score, output = quality_evaluation(str(output))
         #print("Q-SCORE: " + str(quality_score))
-        content_score = 0
+        
+        content_score = content_evaluation(str(output))
+        #print("TEXT SCORE: " + str(text_score))
+        
         finale_score = finale_verification(spam_score, quality_score, link_score, content_score)
       
     return finale_score
@@ -126,8 +126,8 @@ def spam_evaluation(text):
             text = text.replace(i,"")
             hit = hit + 1
             
-            full = full + " - " + i
-            print(full)   
+            # full = full + " - " + i
+            # print(full)   
     
     return hit, text
 
@@ -142,8 +142,8 @@ def quality_evaluation(text):
         if text.find(i.replace("\n",""))>=0:
             hit = hit + 1
             
-            full = full + " - " + i
-            print(full)   
+            # full = full + " - " + i
+            # print(full)   
      
     return hit, text
 
@@ -156,57 +156,62 @@ def link_evaluation(url):
     for i in list_compromis:    
         if i.strip() in url.strip():
             hit = hit -5
-            print(hit)                   
+            #print(hit)                   
 
     global bad_list
          
     for i in bad_list:
         if i.strip() in url.strip():
             hit = hit - 5  
-            print(hit)             
+            #print(hit)             
     
     global good_list
 
     for i in good_list:  
         if i.strip() in url.strip():
             hit = hit + 5
-            print(hit)                   
+            #print(hit)                   
 
     global acceptable_list
 
     for i in acceptable_list:    
         if i.strip() in url.strip():
             hit = hit + 5 
-            print(hit)                   
+            #print(hit)                   
         
     return hit
 
 def content_evaluation(text):
-    score = 0
+    
+    score = 25
+    
     return score
 
 def finale_verification(spam_score, quality_score, link_score, content_score):
     
-    print("Final report")
-    print("spam_evalution score: " + str(spam_score))
-    print("quality_evalution score: " + str(quality_score))
-    print("link_evaluation score: " + str(link_score))
+    print("Final report\n")
+    print("SPAM:    " + str(spam_score))
+    print("QUALITY: " + str(quality_score))
+    print("LINK:    " + str(link_score))
     
-    score_alpha = (quality_score * (link_score/1.5)) - spam_score 
-    if score_alpha >= 1:
-        pass_test = "Passed"
+    score_alpha = quality_score * link_score/1.2 - spam_score 
+
+    if score_alpha > 0:
+        pass_test = "Passed"    
+    elif score_alpha == 0:
+        pass_test = "Medium"
     else:
         pass_test = "Failed"
 
-    print("Final content: " + pass_test + " SCORE: " + str(score_alpha))
+    print("CONTENU: " + str(score_alpha))
+    print("TEST A : " + pass_test)
     
     if link_score >= 1:
         pass_test = "Passed"
     else:
         pass_test = "Failed"
     
-    print("Final security report " + pass_test)
-    
+    print("TEST B : "+ pass_test)
     return 0
 
 url = input("What web site URL do you want to veridy? ")
