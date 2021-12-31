@@ -1,7 +1,7 @@
 import time
 import urllib.parse
 from datetime import datetime
-# Python program to AI smart spider project
+
 import time
 import requests
 
@@ -189,10 +189,11 @@ def content_evaluation(text):
 
 def finale_verification(spam_score, quality_score, link_score, content_score):
     
-    print("Final report\n")
-    print("SPAM:    " + str(spam_score))
-    print("QUALITY: " + str(quality_score))
-    print("LINK:    " + str(link_score))
+    print("Web-Report  ")
+    print("------------")
+    print("SPAM      : " + str(spam_score))
+    print("QUALITY   : " + str(quality_score))
+    print("LINK      : " + str(link_score))
     
     score_alpha = quality_score * link_score/1.2 - spam_score 
 
@@ -203,15 +204,15 @@ def finale_verification(spam_score, quality_score, link_score, content_score):
     else:
         pass_test = "Failed"
 
-    print("CONTENU: " + str(score_alpha))
-    print("TEST A : " + pass_test)
+    print("CONTENT   : " + str(score_alpha))
+    print("GLOBAL Q  : " + pass_test)
     
     if link_score >= 1:
         pass_test = "Passed"
     else:
         pass_test = "Failed"
     
-    print("TEST B : "+ pass_test)
+    print("SECURITY  : "+ pass_test)
     return 0
 
 url = input("What web site URL do you want to veridy? ")
