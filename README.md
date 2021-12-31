@@ -28,4 +28,12 @@ is an authority in the matter or just making up some news.
 I don't have all the answers but I am willing to code. It is a
 complicated problem and we may be limited on what can be done.
 
+I found an API that could help the project 
+
+Search worldwide news 
+
+with code Locate articles and breaking news headlines from news 
+sources and blogs across the web with our JSON API. We could us 
+it to validate if the story is fake or is trending.
+
 Memo Sim @ Fake news detector filters project
