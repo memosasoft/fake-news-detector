@@ -28,9 +28,17 @@ is an authority in the matter or just making up some news.
 I don't have all the answers but I am willing to code. It is a
 complicated problem and we may be limited on what can be done.
 
-I found an API that could help the project 
+I found two API that can make the project work.
 
-Search worldwide news 
+URL Reputation API
+https://www.apivoid.com/api/url-reputation/
+
+With this URL Reputation API you can detect potentially phishing and malicious URLs.
+We deeply analyze the URL (including the URL content, URL pattern, domain name, HTTP headers, domain TLD, etc)
+
+I found another API that could help the project 
+
+Search API worldwide news
 https://newsapi.org/?ref=apilist.fun
 
 with code Locate articles and breaking news headlines from news 
