@@ -31,6 +31,7 @@ complicated problem and we may be limited on what can be done.
 I found an API that could help the project 
 
 Search worldwide news 
+https://newsapi.org/?ref=apilist.fun
 
 with code Locate articles and breaking news headlines from news 
 sources and blogs across the web with our JSON API. We could us 
