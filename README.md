@@ -3,7 +3,10 @@
 Spam filter list, quality keyword list, stoplist list,
 top-domains urls list, news agencies websites list, university
 websites list, business websites lists and government
-organizations lists.
+organizations lists, etc. 
+
+You got a special list please share with the project and 
+join the team.
 
 **Hypothesis**
 The main idea to fight fake news is the look at the athorithy 
