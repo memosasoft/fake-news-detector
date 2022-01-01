@@ -48,3 +48,9 @@ sources and blogs across the web with our JSON API. We could us
 it to validate if the story is fake or is trending.
 
 Memo Sim @ Fake news detector filters project
+
+AFTER TESTING : IT WORKS VERY WELL
+
+List work very well and the system is able to detect bad and 
+good sites. I am very happy this module can be used in my spider 
+project to give more intelligence during scrapping.
