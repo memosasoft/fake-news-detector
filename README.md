@@ -22,13 +22,12 @@ TESTING, TESTING and TESTING
 Next step is running more tests to see if the concept works.
 
 Then we need to find more lists and maybe other tools like
-an API that can give  us clues to identify if a specific website
-is an authority in the matter or just making up some news.
+an API that can give  us clues im discovering fake news.
 
 I don't have all the answers but I am willing to code. It is a
 complicated problem and we may be limited on what can be done.
 
-API
+API may be a solution
 
 I found two API that can make the project work.
 
@@ -37,20 +36,22 @@ https://www.apivoid.com/api/url-reputation/
 
 With this URL Reputation API you can detect potentially phishing and malicious URLs.
 We deeply analyze the URL (including the URL content, URL pattern, domain name, HTTP headers, domain TLD, etc)
+It not free so I will abandonne the API for the moment.
 
-I found another API that could help the project 
+I found another API that could help the project in a more complicated way.
 
 Search API worldwide news
 https://newsapi.org/?ref=apilist.fun
 
-with code Locate articles and breaking news headlines from news 
-sources and blogs across the web with our JSON API. We could us 
-it to validate if the story is fake or is trending.
+We could cross reference news events with this API. We could us 
+it to validate if the story is fake or is trending. But this could
+get complicated. 
 
 Memo Sim @ Fake news detector filters project
 
-AFTER TESTING : IT WORKS VERY WELL
+AFTER TESTING : THE LIST CONCEPT WORKS VERY WELL
 
-List work very well and the system is able to detect bad and 
-good sites. I am very happy this module can be used in my spider 
-project to give more intelligence during scrapping.
+The lists work very well together and the system is able to detect bad and 
+good sites. I am very happy with this module. We are also able to get nice
+quality indicators and statistics for web page quality source evaluation.
+
