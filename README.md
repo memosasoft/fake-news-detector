@@ -28,9 +28,10 @@ Just to give you an exemple:
 - A pre-authorize domain list could help qualify good sources for news
 events on the Net.
 
-TESTING, TESTING and more TESTING
+**TESTING, TESTING and more TESTING**
 
-Next step is running more tests to see if the concept works.
+Next step is running more tests to see if the concept works. We are also going 
+to integrate the list concept to ou smart-spider project.
 
 Memo SIM working
 on Project @ Paradoxe
