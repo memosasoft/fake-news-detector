@@ -11,13 +11,11 @@ join the team.
 **Hypothesis**
 The main idea to fight fake news is the look at the athorithy 
 that is transmitting the news event. I am working on a system
-that can juge of the quality of an internet source.
+that can juge of the quality of an internet source. If we can 
+verify the source we are on the right track for building a 
+fake news detector.
 
-If we can verify the source we are on the right track for building 
-a fake news detector.
-
-**SPAM FILTER - FRIENDLY LISTS - BLACKLISTED URL LIST - URL DOMAIN LISTS - CONCEPTS AND CATEGORIES
-LIST - STOPLIST - MOST TRUSTED URL LIST - TOP-DOMAINs LIST** 
+**SPAM FILTER - FRIENDLY LISTS - BLACKLISTED URL LIST - URL DOMAIN LISTS - CONCEPTS AND CATEGORIES LIST - STOPLIST - MOST TRUSTED URL LIST - TOP-DOMAINs LIST** 
 
 **Some examples of wath is possible**
 Just to give you an exemple: 
@@ -32,3 +30,9 @@ events on the Net.
 TESTING, TESTING and more TESTING
 
 Next step is running more tests to see if the concept works.
+
+Memo SIM working 
+on Project @ Paradoxe
+
+SIM - Service Memosa
+https://services-memosa.weebly.com/
