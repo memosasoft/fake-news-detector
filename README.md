@@ -46,32 +46,3 @@ https://newsapi.org/?ref=apilist.fun
 We could cross reference news events with this API. We could us 
 it to validate if the story is fake or is trending. But this could
 get complicated. 
-
-Memo Sim @ Fake news detector filters project
-
-AFTER TESTING : THE LIST CONCEPT WORKS VERY WELL
-
-The lists work very well together and the system is able to detect bad and 
-good sites. I am very happy with this module. I am also able to get nice
-quality indicators and statistics for web page quality source evaluation.
-
-Web-Report  
-
-title: The Best Online Tools To Know Everything About a Website - Digital Inspiration
-url: https://www.labnol.org/internet/tools/best-online-tools-for-webmasters-know-everything-about-websites/2744/
-
-Here is the extracted stats data 
--------------------
-SPAM             : 69
-LINK             : -10
-QUALITY          : 134
-DATA SIZE        : 2953 words in html
-
-SPAM    Ratio %  : 0.02336606840501185
-QUALITY Ratio %  : 0.04537758211987809
-
-CONTENT   : -1409
-GLOBAL Q  : Failed
-SECURITY  : Failed unsafe source
-
-The system need to be able to learn and share information between programs.
