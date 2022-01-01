@@ -13,17 +13,17 @@ that can juge of the quality of an internet source.
 If we can verify the source we are on the right track for building 
 a fake news detector.
 
-**SPAM FILTER - FRENDLY LISTS - BLACKLISTES - URL LISTS - CONCEPTS
+**SPAM FILTER - FRIENDLY LISTS - BLACKLISTED URL LIST - URL DOMAIN LISTS - CONCEPTS AND CATEGORIES
 LIST - STOPLIST - MOST TRUSTED URL LIST - TOP-DOMAINs LIST** 
 
-**Some exemples of wath is possible**
+**Some examples of wath is possible**
 Just to give you an exemple: 
 
 - A high score on a spam filter can give us clues on the quality of a source. 
 
-- A blacklisted site sould no be trusted with a news feed.
+- A blacklisted site should not be trusted with a news feed.
 
-- A pre-authgorize domain list could help qualify good source for news
+- A pre-authorize domain list could help qualify good sources for news
 events on the Net.
 
 TESTING, TESTING and more TESTING
