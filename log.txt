@@ -110,3 +110,267 @@ SECURITY  : Safe Site - you can trust this source
 ----------------------------------
 
 
+
+Web-Report  
+
+title: Programmable Search Engine by Google
+url: https://cse.google.com/
+
+-------------------
+LINK             : 60
+SPAM             : 24
+QUALITY          : 390
+DATA SIZE        : 1192 words in html
+
+SPAM    Ratio %  : 0.020134228187919462
+QUALITY Ratio %  : 0.3271812080536913
+CONTENT   : 23376
+GLOBAL Q  : Passed
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+
+Web-Report  
+
+title: Help for your Yahoo Account
+url: https://help.yahoo.com/
+
+-------------------
+LINK             : 70
+SPAM             : 84
+QUALITY          : 1505
+DATA SIZE        : 4195 words in html
+
+SPAM    Ratio %  : 0.0200238379022646
+QUALITY Ratio %  : 0.35876042908224076
+CONTENT   : 105266
+GLOBAL Q  : Passed
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+
+Web-Report  
+
+title: State of California - Department of Justice - Office of the Attorney General
+url: https://oag.ca.gov/
+
+-------------------
+LINK             : 80
+SPAM             : 64
+QUALITY          : 2368
+DATA SIZE        : 4706 words in html
+
+SPAM    Ratio %  : 0.013599660008499787
+QUALITY Ratio %  : 0.5031874203144922
+CONTENT   : 189376
+GLOBAL Q  : Passed
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+
+Web-Report  
+
+title: Buy Sectigo SSL/TLS Certificates - Save 82% | Formerly Comodo CA
+url: https://sectigostore.com/
+
+-------------------
+LINK             : -90
+SPAM             : 154
+QUALITY          : 3375
+DATA SIZE        : 7576 words in html
+
+SPAM    Ratio %  : 0.020327349524815207
+QUALITY Ratio %  : 0.4454857444561774
+CONTENT   : -303904
+GLOBAL Q  : Failed
+SECURITY  : Failed unsafe source
+
+
+----------------------------------
+
+
+
+Web-Report  
+
+title: Canada.ca
+url: https://www.canada.ca/
+
+-------------------
+LINK             : 0
+SPAM             : 30
+QUALITY          : 10
+DATA SIZE        : 119 words in html
+
+SPAM    Ratio %  : 0.25210084033613445
+QUALITY Ratio %  : 0.08403361344537816
+CONTENT   : -30
+GLOBAL Q  : Failed
+SECURITY  : No information about source
+
+
+----------------------------------
+
+
+
+Web-Report  
+
+title: CBC.ca - watch, listen, and discover with Canada's Public Broadcaster
+url: https://www.cbc.ca/
+
+-------------------
+LINK             : 55
+SPAM             : 66
+QUALITY          : 2398
+DATA SIZE        : 1125 words in html
+
+SPAM    Ratio %  : 0.058666666666666666
+QUALITY Ratio %  : 2.1315555555555554
+CONTENT   : 131824
+GLOBAL Q  : Passed
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+
+Web-Report  
+
+title: Stock Markets, Business News, Financials, Earnings - CNBC
+url: https://www.cnbc.com/
+
+-------------------
+LINK             : 180
+SPAM             : 253
+QUALITY          : 6300
+DATA SIZE        : 10722 words in html
+
+SPAM    Ratio %  : 0.023596343965678047
+QUALITY Ratio %  : 0.5875769445998881
+CONTENT   : 1133747
+GLOBAL Q  : Passed
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+
+Web-Report  
+
+title: Consumer Information | Federal Trade Commission
+url: https://www.consumer.ftc.gov/
+
+-------------------
+LINK             : 0
+SPAM             : 130
+QUALITY          : 1378
+DATA SIZE        : 919 words in html
+
+SPAM    Ratio %  : 0.14145810663764963
+QUALITY Ratio %  : 1.499455930359086
+CONTENT   : -130
+GLOBAL Q  : Failed
+SECURITY  : No information about source
+
+
+----------------------------------
+
+
+
+Web-Report  
+
+title: DocuSign | #1 in Electronic Signature and Agreement Cloud
+url: https://www.docusign.com/
+
+-------------------
+LINK             : 140
+SPAM             : 170
+QUALITY          : 2254
+DATA SIZE        : 3881 words in html
+
+SPAM    Ratio %  : 0.043803143519711416
+QUALITY Ratio %  : 0.5807781499613501
+CONTENT   : 315390
+GLOBAL Q  : Passed
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+
+Web-Report  
+
+title: Google
+url: https://www.google.com/
+
+-------------------
+LINK             : 75
+SPAM             : 105
+QUALITY          : 1860
+DATA SIZE        : 1553 words in html
+
+SPAM    Ratio %  : 0.06761107533805538
+QUALITY Ratio %  : 1.1976819059884096
+CONTENT   : 139395
+GLOBAL Q  : Passed
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+
+Web-Report  
+
+title: Investopedia: Sharper insight, better investing.
+url: https://www.investopedia.com/
+
+-------------------
+LINK             : 80
+SPAM             : 81
+QUALITY          : 1328
+DATA SIZE        : 1289 words in html
+
+SPAM    Ratio %  : 0.06283941039565555
+QUALITY Ratio %  : 1.0302560124127231
+CONTENT   : 106159
+GLOBAL Q  : Passed
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+
+Web-Report  
+
+title: wikiHow: How-to instructions you can trust.
+url: https://www.wikihow.com/
+
+-------------------
+LINK             : 85
+SPAM             : 221
+QUALITY          : 6460
+DATA SIZE        : 4605 words in html
+
+SPAM    Ratio %  : 0.04799131378935939
+QUALITY Ratio %  : 1.4028230184581976
+CONTENT   : 548879
+GLOBAL Q  : Passed
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
