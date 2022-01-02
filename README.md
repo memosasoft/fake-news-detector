@@ -14,8 +14,8 @@ Also a list organized by specifique subjects. If you have a special
 list covering a specific subject I am very intrested in does type
 of lists.
 
-**Fake News verification module 
-core Search Engine component**
+**Fake News verification module will be a 
+core Search Engine component for my next project**
 
 I am also building a search engine. My spider project and
 the website quality verification module being developed in
