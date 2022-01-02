@@ -88,8 +88,7 @@ def load():
     good_list = load_list("./urls_information/good_domains", good_list)
     print("good domains loaded...")
     
-    acceptable_list = load_list("./urls_information/top_domains_list_acceptable", acceptable_list)
-    
+    acceptable_list = load_list("./urls_information/top_domains_list_acceptable", acceptable_list)  
     print("pronlem domains loaded...")
     print("Lists loaded - thank you")
 
@@ -107,13 +106,15 @@ def get_url(url):
 
     page = rq.get(url, headers={'User-Agent': ua.random},timeout=10)
     status_code = page.status_code
-   
     finale_score = 0
+
     list = []
     if status_code == 200:  
+
         url_spectal = url.replace("https://", "")
         url_spectal = url.replace("http://", "")
         link_score = link_evaluation(url_spectal)
+        
         #print("LINK SCORE: " + str(link_score))
         html = bs(page.text, 'lxml')
         text = html.find_all(text=True)
@@ -150,7 +151,6 @@ def get_url(url):
         content_score = content_evaluation(str(output))
         #print("TEXT SCORE: " + str(text_score))
         
-
         data_size = data_size
         title = title
         
@@ -241,7 +241,6 @@ def link_evaluation(url):
         if i.strip() in url.strip():
             hit = hit + 5 
             #print(hit)                   
-        
     return hit
 
 def content_evaluation(str):
@@ -269,10 +268,8 @@ def content_evaluation(str):
 
         for i in range (0,count): 
             listKeywords.remove(targetWord) 
-        listSize = len(listKeywords)
-        
+        listSize = len(listKeywords)  
     return keywordCountList
-
 
 def finale_verification(url, content_score):
     
@@ -328,15 +325,13 @@ def finale_verification(url, content_score):
     else:
         pass_test = "Failed"
 
-    print("")
     print("CONTENT   : " + str(score_alpha))
     print("GLOBAL Q  : " + pass_test)
     
-    print_to_file("")
     print_to_file("CONTENT   : " + str(score_alpha))
     print_to_file("GLOBAL Q  : " + pass_test)
 
-    content_check = False
+    content_check = pass_test
     
     if link_score >= 1:
         pass_test = "Safe Site - you can trust this source"
@@ -347,16 +342,22 @@ def finale_verification(url, content_score):
     
     print("SECURITY  : " + pass_test+"\n")
     print("\n----------------------------------\n\n")
+    
+    print_to_file("SECURITY  : " + pass_test+"\n")
+    print_to_file("\n----------------------------------\n\n")
 
     security_check = pass_test
 
 def input_user():
+
     url = input("Please insert URL: ")
     get_url(url)
     
 def main():
+
     print("Loading...")
     load()
+
     print("data loaded..\n")
     input_user()
 
@@ -365,7 +366,7 @@ def print_to_file(data):
     file.write(data+"\n")
 
 def verify_website(url):
-
+    
     # Reinitiation
     global data_size
     global title
@@ -373,13 +374,13 @@ def verify_website(url):
     global spam_score 
     global quality_score 
     global link_score 
-
     global content_check
     global security_check 
 
     # Website info
     title = ""
     description = ""
+
     data_size = 0
     spam_score = 0
     quality_score = 0

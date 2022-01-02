@@ -1,0 +1,112 @@
+
+Web-Report  
+
+title: SSL Certificate Types | Types of SSL Certificates by Sectigo
+url: https://sectigostore.com/ssl-types
+
+-------------------
+LINK             : -10
+SPAM             : 11
+QUALITY          : 158
+DATA SIZE        : 3238 words in html
+
+SPAM    Ratio %  : 0.0033971587399629403
+QUALITY Ratio %  : 0.04879555281037678
+CONTENT   : -1591
+GLOBAL Q  : Failed
+SECURITY  : Failed unsafe source
+
+
+----------------------------------
+
+
+
+Web-Report  
+
+title: Sectigo Website Security Products | Malware & PCI Scanning Solutions
+url: https://sectigostore.com/website-security
+
+-------------------
+LINK             : -20
+SPAM             : 16
+QUALITY          : 360
+DATA SIZE        : 2077 words in html
+
+SPAM    Ratio %  : 0.0077034183919114105
+QUALITY Ratio %  : 0.17332691381800674
+CONTENT   : -7216
+GLOBAL Q  : Failed
+SECURITY  : Failed unsafe source
+
+
+----------------------------------
+
+
+
+Web-Report  
+
+title: Google Transparency Report
+url: https://transparencyreport.google.com/safe-browsing/search
+
+-------------------
+LINK             : 15
+SPAM             : 3
+QUALITY          : 3
+DATA SIZE        : 4 words in html
+
+SPAM    Ratio %  : 0.75
+QUALITY Ratio %  : 0.75
+CONTENT   : 42
+GLOBAL Q  : Passed
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+
+Web-Report  
+
+title: 
+	BBB Scam Tracker℠  | Find and Report a Scam | Better Business Bureau
+
+url: https://www.bbb.org/scamtracker/us/
+
+-------------------
+LINK             : 0
+SPAM             : 40
+QUALITY          : 536
+DATA SIZE        : 1430 words in html
+
+SPAM    Ratio %  : 0.027972027972027972
+QUALITY Ratio %  : 0.3748251748251748
+CONTENT   : -40
+GLOBAL Q  : Failed
+SECURITY  : No information about source
+
+
+----------------------------------
+
+
+
+Web-Report  
+
+title: Google Code
+url: http://code.google.com/
+
+-------------------
+LINK             : 50
+SPAM             : 35
+QUALITY          : 325
+DATA SIZE        : 678 words in html
+
+SPAM    Ratio %  : 0.051622418879056046
+QUALITY Ratio %  : 0.47935103244837757
+CONTENT   : 16215
+GLOBAL Q  : Passed
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
