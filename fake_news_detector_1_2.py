@@ -54,10 +54,8 @@ configuration = configparser.ConfigParser()
 configuration.read('config.env')
 LIMIT_FOR_DATA_FILE = configuration.get('CONFIG','LIMIT_FOR_DATA_FILE')
 
-x_str = ""
-x_list = []
-list_container = [[x_list],[x_str]]
-list_of_lists = [list_container]
+list_of_lists = []
+list_of_category = []
 
     # url file loading and cleaning process
 def load_list(file_name, x_list):
@@ -67,7 +65,6 @@ def load_list(file_name, x_list):
     import time
 
     print("loading list " + str(file_name))
-    time.sleep(0.0000001)
     memory = []
     counter = 0
 
@@ -79,11 +76,11 @@ def load_list(file_name, x_list):
             if string not in memory:
                 x_list.append(string)
                 memory.append(string)
-                time.sleep(0.0000000001)
                 counter = counter + 1
 
             if (counter>int(LIMIT_FOR_DATA_FILE)):
                 file.close()
+                memory = []
                 return x_list   
         file.close()
     memory = []
@@ -114,54 +111,60 @@ def load():
     global abuse
 
     global list_of_lists
+    global list_of_category
 
     print("This may take some time...")
-
     # Loading Knowledge List 
-    stoplist = load_list("./urls_information/stoplist", stoplist)
-    print("stoplist loaded...")
+    stoplist = load_list("./urls_information/stoplist.filter", stoplist)
+    #print("stoplist loaded...")
     
-    spam_list = load_list("./urls_information/spam", spam_list)
-    print("spam list loaded...")
+    spam_list = load_list("./urls_information/spam.filter", spam_list)
+    #print("spam list loaded...")
     
-    q_list = load_list("./urls_information/quality", q_list)
-    print("quality list loaded...")
+    q_list = load_list("./urls_information/quality.keywords", q_list)
+    #print("quality list loaded...")
     
     list_compromis = load_list("./urls_information/compromised_domains", list_compromis)
-    print("domains loaded...")
+    #print("domains loaded...")
     
     bad_list = load_list("./urls_information/bad_domains", bad_list)
-    print("bad domains loaded...")
+    #print("bad domains loaded...")
     
     good_list = load_list("./urls_information/good_domains", good_list)
-    print("good domains loaded...")
+    #print("good domains loaded...")
     
     acceptable_list = load_list("./urls_information/top_domains_list_acceptable", acceptable_list)  
-    print("pronlem domains loaded...")
+    
+    print("Finishing core keywords and domain loading...")
     print("Lists loaded - thank you")
+    print("Starting list loading process...")
 
     list_of_lists = []
-    
+    list_of_category = []
+
     # INITIAL PROTOTYPE LISTS
-    list_container = [[spam_list],["SPAM"]]
+    list_container = spam_list
+    list_of_category = "SPAM"
     list_of_lists.append(list_container)
 
-    list_container = [[spam_list],["SPAM"]]
+    list_container = q_list
+    list_of_category = "QUALITY"
     list_of_lists.append(list_container)
 
-    list_container = [[q_list],["QUALITY"]]
+    list_container = list_compromis
+    list_of_category = "DOMAIN_COMPROMISED"
     list_of_lists.append(list_container)
 
-    list_container = [[list_compromis],["DOMAIN_COMPROMISED"]]
+    list_container = bad_list
+    list_of_category = "BAD_DOMAINS"
     list_of_lists.append(list_container)
 
-    list_container = [[bad_list],["BAD_DOMAINS"]]
+    list_container = good_list
+    list_of_category = "GOOD_DOMAINS"
     list_of_lists.append(list_container)
 
-    list_container = [[good_list],["GOOD_DOMAINS"]]
-    list_of_lists.append(list_container)
-
-    list_container = [[acceptable_list],["ACCEPTABLE_DOMAINS"]]
+    list_container = acceptable_list
+    list_of_category = "ACCEPTABLE_DOMAINS"
     list_of_lists.append(list_container)
 
     print("LOADING NEW LIST DATA - The Block List Project")
@@ -169,104 +172,33 @@ def load():
     print("We have much data to load please go get a some coffee")
        
     # FOUND - https://github.com/blocklistproject
-    fraud = load_list("./knowledge-base/domains-knowledge/fraud.txt", fraud)
-    print("fraud list loaded...")  
-    list_container = [[fraud],["fraud"]]
-    list_of_lists.append(list_container)
 
-    scam = load_list("./knowledge-base/domains-knowledge/scam.txt", scam)
-    print("scam list loaded...")  
-    list_container = [[scam],["scam"]]
-    list_of_lists.append(list_container)
-
-    ransomware = load_list("./knowledge-base/domains-knowledge/ransomware.txt", ransomware)
-    print("ransomware list loaded...")  
-    list_container = [[ransomware],["ransomware"]]
-    list_of_lists.append(list_container)
-
-    porn = load_list("./knowledge-base/domains-knowledge/porn.txt", porn)
-    print("porn list loaded...")  
-    list_container = [[porn],["porn"]]
-    list_of_lists.append(list_container)
-
-    phishing = load_list("./knowledge-base/domains-knowledge/phishing.txt", phishing)
-    print("phishing list loaded...")  
-    list_container = [[phishing],["phishing"]]
-    list_of_lists.append(list_container)
-
-    crypto = load_list("./knowledge-base/domains-knowledge/crypto.txt", crypto)
-    print("crypto list loaded...")  
-    list_container = [[crypto],["crypto"]]
-    list_of_lists.append(list_container)
-
-    ads = load_list("./knowledge-base/domains-knowledge/ads.txt", ads)
-    print("ads list loaded...")  
-    list_container = [[ads],["ads"]]
-    list_of_lists.append(list_container)
- 
-    drugs = load_list("./knowledge-base/domains-knowledge/drugs.txt", drugs)
-    print("drugs list loaded...")  
-    list_container = [[drugs],["drugs"]]
-    list_of_lists.append(list_container)
- 
-    piracy = load_list("./knowledge-base/domains-knowledge/piracy.txt", piracy)
-    print("piracy list loaded...")  
-    list_container = [[piracy],["piracy"]]
-    list_of_lists.append(list_container)
-
-    abuse = load_list("./knowledge-base/domains-knowledge/abuse.txt", abuse)
-    print("governement list loaded...")  
-    list_container = [[abuse],["abuse"]]
-    list_of_lists.append(list_container)
-
-    # LOAD VATEGORY LISTS
-
-    governement = load_list("./knowledge-base/urls_knowlegde/governement", governement)
-    print("governement list loaded...")  
-    list_container = [[governement],["governement"]]
-    list_of_lists.append(list_container)
+    import os
+    your_path = '/home/linux/Bureau/Programmation/fake-news-1.0/urls_information/'
+    files = os.listdir(your_path)
     
-    quality_c = []
-    quality_c = load_list("./knowledge-base/urls_knowlegde/quality", quality_c)
-    print("quality list loaded...")  
-    list_container = [[quality_c],["quality"]]
-    list_of_lists.append(list_container)
+    x_list = []
+    list_container = []
+    list_of_category = []
 
-    academic_c = []
-    academic_c = load_list("./knowledge-base/urls_knowlegde/academic", academic_c)
-    print("academic list loaded...")  
-    list_container = [[academic_c],["academic"]]
-    list_of_lists.append(list_container)
-
-    news_c = []
-    news_c = load_list("./knowledge-base/urls_knowlegde/news", news_c)
-    print("news_c list loaded...")  
-    list_container = [[news_c],["news"]]
-    list_of_lists.append(list_container)
-
-    university = []
-    university = load_list("./knowledge-base/urls_knowlegde/university", university)
-    print("university list loaded...")  
-    list_container = [[university],["university"]]
-    list_of_lists.append(list_container)
-
-    techno = []
-    techno = load_list("./knowledge-base/urls_knowlegde/technology", techno)
-    print("techno list loaded...")  
-    list_container = [[university],["technology"]]
-    list_of_lists.append(list_container)
-
-    high_trust = []
-    high_trust = load_list("./knowledge-base/urls_knowlegde/high_trust", high_trust)
-    print("techno list loaded...")  
-    list_container = [[high_trust],["high_trust"]]
-    list_of_lists.append(list_container)
-
-    return list_of_lists
+    for file in files:
+        if os.path.isfile(os.path.join(your_path, file)):
+            file_name = your_path + file
+            x_list = load_list(file_name, x_list)
+            list_of_lists.append(x_list) 
+            list_of_category.append(str(file)) 
+            str(file)
+            list_of_lists
+            
+    return list_of_lists, list_of_category
 
 
-def get_url_bypass(url, x_list_of_lists):
+def get_url_bypass(url, x_list_of_lists, x_list_of_category):
+    global list_of_lists
+    global list_of_category
+    
     list_of_lists = x_list_of_lists
+    list_of_category = x_list_of_category
     get_url(url)
     
 def get_url(url):
@@ -528,29 +460,40 @@ def finale_verification(url, content_score, output):
     run_data_list(url, content_score, output)
 
 def run_data_list(url, content_score, output):
+    
     global list_of_lists
+    global list_of_category
+    
     counter = 0
-    for data in list_of_lists:   
-        category = ""
-        x_list = []
-
-        [[x_list], [category]] = data
+    index = 0
+        
+    for x_list in list_of_lists: 
+    
         counter = 0
-
+    
         for i in x_list:
-            if output.find(" " + i.replace("\n","") + " ")>=0:
-                counter = counter + 1
             
-            if output.find(i.replace("\n",""))>=0:
+            i = i.replace("\n","")
+            #print("Looking for: " + i)
+
+            if output.find(i)>=0:
                 counter = counter + 1
+                #print("keyword text match : " + i)
+            if url.find(i)>=0:
+                counter = counter + 1
+                #print("url domain match : " + i)
+        
+        if len(list_of_category) > index:
+            #print("Hits " + str(counter))
+            print("For this list: " + str(list_of_category[index]) + " VALUE: " + str(counter))
+            print_to_file("For this list: " + str(list_of_category[index]) + " V00ALUE: " + str(counter))
+            counter = 0
+            index = index + 1
             
-            if url.find(i.replace("\n",""))>=0:
-                counter = counter + 1
-
-        print("For this list: " + str(category) + " VALUE: " + str(counter))
-        print_to_file("For this list: " + str(category) + " VALUE: " + str(counter))
-        counter = 0
-
+        else:
+            counter = 0
+            index = index + 1
+            
 def input_user():
 
     url = input("Please insert URL: ")
@@ -591,10 +534,10 @@ def first_call(url):
     content_check = False
     security_check = False
     
-    list_of_lists = load()
+    list_of_lists, list_of_category = load()
     get_url(url)
 
-    return list_of_lists
+    return list_of_lists, list_of_category
 
-def verify_website(url, list_of_lists):
-    get_url_bypass(url, list_of_lists)
+def verify_website(url, list_of_lists, list_of_category):
+    get_url_bypass(url, list_of_lists, list_of_category)
