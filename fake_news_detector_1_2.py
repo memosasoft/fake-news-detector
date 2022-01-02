@@ -165,13 +165,14 @@ def load():
     list_of_lists.append(list_container)
 
     print("LOADING NEW LIST DATA - The Block List Project")
+    print("Please patience...")
     print("We have much data to load please go get a some coffee")
        
     # FOUND - https://github.com/blocklistproject
-    #fraud = load_list("./knowledge-base/domains-knowledge/fraud.txt", fraud)
-    #print("fraud list loaded...")  
-    #list_container = [[fraud],["fraud"]]
-    #list_of_lists.append(list_container)
+    fraud = load_list("./knowledge-base/domains-knowledge/fraud.txt", fraud)
+    print("fraud list loaded...")  
+    list_container = [[fraud],["fraud"]]
+    list_of_lists.append(list_container)
 
     scam = load_list("./knowledge-base/domains-knowledge/scam.txt", scam)
     print("scam list loaded...")  
@@ -256,7 +257,7 @@ def load():
     list_of_lists.append(list_container)
 
     high_trust = []
-    high_trust = load_list("./knowledge-base/urls_knowlegde/high_trust", techno)
+    high_trust = load_list("./knowledge-base/urls_knowlegde/high_trust", high_trust)
     print("techno list loaded...")  
     list_container = [[high_trust],["high_trust"]]
     list_of_lists.append(list_container)
@@ -538,6 +539,12 @@ def run_data_list(url, content_score, output):
 
         for i in x_list:
             if output.find(" " + i.replace("\n","") + " ")>=0:
+                counter = counter + 1
+            
+            if output.find(i.replace("\n",""))>=0:
+                counter = counter + 1
+            
+            if url.find(i.replace("\n",""))>=0:
                 counter = counter + 1
 
         print("For this list: " + str(category) + " VALUE: " + str(counter))
