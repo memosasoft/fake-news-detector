@@ -1,0 +1,3049 @@
+
+Web-Report  
+
+title: SSL Certificate Types | Types of SSL Certificates by Sectigo
+url: https://sectigostore.com/ssl-types
+
+-------------------
+LINK             : -10
+SPAM             : 49
+QUALITY          : 158
+DATA SIZE        : 3238 words in html
+
+SPAM    Ratio %  : 0.015132798023471278
+QUALITY Ratio %  : 0.04879555281037678
+CONTENT   : -1629
+GLOBAL Q  : Failed
+SECURITY  : Failed unsafe source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 47
+For this list: SPAM VALUE: 47
+For this list: QUALITY VALUE: 158
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 7
+For this list: GOOD_DOMAINS VALUE: 1
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 0
+For this list: ransomware VALUE: 0
+For this list: porn VALUE: 0
+For this list: phishing VALUE: 0
+For this list: crypto VALUE: 0
+For this list: ads VALUE: 0
+For this list: drugs VALUE: 0
+For this list: piracy VALUE: 0
+For this list: abuse VALUE: 0
+For this list: governement VALUE: 297
+For this list: quality VALUE: 158
+For this list: academic VALUE: 6
+For this list: news VALUE: 134
+For this list: university VALUE: 5
+For this list: technology VALUE: 5
+For this list: high_trust VALUE: 6
+
+Web-Report  
+
+title: Sectigo Website Security Products | Malware & PCI Scanning Solutions
+url: https://sectigostore.com/website-security
+
+-------------------
+LINK             : -15
+SPAM             : 40
+QUALITY          : 180
+DATA SIZE        : 2077 words in html
+
+SPAM    Ratio %  : 0.019258545979778528
+QUALITY Ratio %  : 0.08666345690900337
+CONTENT   : -2740
+GLOBAL Q  : Failed
+SECURITY  : Failed unsafe source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 39
+For this list: SPAM VALUE: 39
+For this list: QUALITY VALUE: 180
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 8
+For this list: GOOD_DOMAINS VALUE: 2
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 0
+For this list: ransomware VALUE: 0
+For this list: porn VALUE: 0
+For this list: phishing VALUE: 0
+For this list: crypto VALUE: 0
+For this list: ads VALUE: 0
+For this list: drugs VALUE: 0
+For this list: piracy VALUE: 0
+For this list: abuse VALUE: 0
+For this list: governement VALUE: 310
+For this list: quality VALUE: 180
+For this list: academic VALUE: 7
+For this list: news VALUE: 133
+For this list: university VALUE: 6
+For this list: technology VALUE: 6
+For this list: high_trust VALUE: 7
+
+Web-Report  
+
+title: Google Transparency Report
+url: https://transparencyreport.google.com/safe-browsing/search
+
+-------------------
+LINK             : 5
+SPAM             : 1
+QUALITY          : 1
+DATA SIZE        : 4 words in html
+
+SPAM    Ratio %  : 0.25
+QUALITY Ratio %  : 0.25
+CONTENT   : 4
+GLOBAL Q  : Passed
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 1
+For this list: SPAM VALUE: 1
+For this list: QUALITY VALUE: 1
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 0
+For this list: GOOD_DOMAINS VALUE: 0
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 0
+For this list: ransomware VALUE: 0
+For this list: porn VALUE: 0
+For this list: phishing VALUE: 0
+For this list: crypto VALUE: 0
+For this list: ads VALUE: 0
+For this list: drugs VALUE: 0
+For this list: piracy VALUE: 0
+For this list: abuse VALUE: 0
+For this list: governement VALUE: 20
+For this list: quality VALUE: 1
+For this list: academic VALUE: 2
+For this list: news VALUE: 6
+For this list: university VALUE: 2
+For this list: technology VALUE: 2
+For this list: high_trust VALUE: 2
+
+Web-Report  
+
+title: 
+	BBB Scam Tracker℠  | Find and Report a Scam | Better Business Bureau
+
+url: https://www.bbb.org/scamtracker/us/
+
+-------------------
+LINK             : 0
+SPAM             : 42
+QUALITY          : 134
+DATA SIZE        : 1430 words in html
+
+SPAM    Ratio %  : 0.02937062937062937
+QUALITY Ratio %  : 0.0937062937062937
+CONTENT   : -42
+GLOBAL Q  : Failed
+SECURITY  : No information about source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 42
+For this list: SPAM VALUE: 42
+For this list: QUALITY VALUE: 134
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 5
+For this list: GOOD_DOMAINS VALUE: 3
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 0
+For this list: ransomware VALUE: 0
+For this list: porn VALUE: 0
+For this list: phishing VALUE: 0
+For this list: crypto VALUE: 0
+For this list: ads VALUE: 0
+For this list: drugs VALUE: 0
+For this list: piracy VALUE: 0
+For this list: abuse VALUE: 0
+For this list: governement VALUE: 286
+For this list: quality VALUE: 134
+For this list: academic VALUE: 9
+For this list: news VALUE: 137
+For this list: university VALUE: 8
+For this list: technology VALUE: 8
+For this list: high_trust VALUE: 8
+
+Web-Report  
+
+title: Google Code
+url: http://code.google.com/
+
+-------------------
+LINK             : 10
+SPAM             : 20
+QUALITY          : 65
+DATA SIZE        : 678 words in html
+
+SPAM    Ratio %  : 0.029498525073746312
+QUALITY Ratio %  : 0.09587020648967552
+CONTENT   : 630
+GLOBAL Q  : Passed
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 20
+For this list: SPAM VALUE: 20
+For this list: QUALITY VALUE: 65
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 8
+For this list: GOOD_DOMAINS VALUE: 6
+For this list: ACCEPTABLE_DOMAINS VALUE: 1
+For this list: scam VALUE: 1
+For this list: ransomware VALUE: 1
+For this list: porn VALUE: 1
+For this list: phishing VALUE: 1
+For this list: crypto VALUE: 1
+For this list: ads VALUE: 1
+For this list: drugs VALUE: 1
+For this list: piracy VALUE: 1
+For this list: abuse VALUE: 1
+For this list: governement VALUE: 172
+For this list: quality VALUE: 65
+For this list: academic VALUE: 6
+For this list: news VALUE: 76
+For this list: university VALUE: 5
+For this list: technology VALUE: 5
+For this list: high_trust VALUE: 6
+
+Web-Report  
+
+title: Programmable Search Engine by Google
+url: https://cse.google.com/
+
+-------------------
+LINK             : 10
+SPAM             : 18
+QUALITY          : 65
+DATA SIZE        : 1192 words in html
+
+SPAM    Ratio %  : 0.015100671140939598
+QUALITY Ratio %  : 0.05453020134228188
+CONTENT   : 632
+GLOBAL Q  : Passed
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 18
+For this list: SPAM VALUE: 18
+For this list: QUALITY VALUE: 65
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 3
+For this list: GOOD_DOMAINS VALUE: 2
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 0
+For this list: ransomware VALUE: 0
+For this list: porn VALUE: 0
+For this list: phishing VALUE: 0
+For this list: crypto VALUE: 0
+For this list: ads VALUE: 0
+For this list: drugs VALUE: 0
+For this list: piracy VALUE: 0
+For this list: abuse VALUE: 0
+For this list: governement VALUE: 181
+For this list: quality VALUE: 65
+For this list: academic VALUE: 11
+For this list: news VALUE: 96
+For this list: university VALUE: 9
+For this list: technology VALUE: 9
+For this list: high_trust VALUE: 11
+
+Web-Report  
+
+title: Help for your Yahoo Account
+url: https://help.yahoo.com/
+
+-------------------
+LINK             : 5
+SPAM             : 48
+QUALITY          : 215
+DATA SIZE        : 4195 words in html
+
+SPAM    Ratio %  : 0.011442193087008343
+QUALITY Ratio %  : 0.05125148986889154
+CONTENT   : 1027
+GLOBAL Q  : Passed
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 48
+For this list: SPAM VALUE: 48
+For this list: QUALITY VALUE: 215
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 11
+For this list: GOOD_DOMAINS VALUE: 5
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 1
+For this list: ransomware VALUE: 1
+For this list: porn VALUE: 1
+For this list: phishing VALUE: 1
+For this list: crypto VALUE: 1
+For this list: ads VALUE: 1
+For this list: drugs VALUE: 1
+For this list: piracy VALUE: 1
+For this list: abuse VALUE: 1
+For this list: governement VALUE: 429
+For this list: quality VALUE: 215
+For this list: academic VALUE: 7
+For this list: news VALUE: 187
+For this list: university VALUE: 6
+For this list: technology VALUE: 6
+For this list: high_trust VALUE: 6
+
+Web-Report  
+
+title: State of California - Department of Justice - Office of the Attorney General
+url: https://oag.ca.gov/
+
+-------------------
+LINK             : 10
+SPAM             : 41
+QUALITY          : 296
+DATA SIZE        : 4706 words in html
+
+SPAM    Ratio %  : 0.008712282192945177
+QUALITY Ratio %  : 0.06289842753931152
+CONTENT   : 2919
+GLOBAL Q  : Passed
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 41
+For this list: SPAM VALUE: 41
+For this list: QUALITY VALUE: 296
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 12
+For this list: GOOD_DOMAINS VALUE: 6
+For this list: ACCEPTABLE_DOMAINS VALUE: 1
+For this list: scam VALUE: 1
+For this list: ransomware VALUE: 1
+For this list: porn VALUE: 1
+For this list: phishing VALUE: 1
+For this list: crypto VALUE: 1
+For this list: ads VALUE: 1
+For this list: drugs VALUE: 1
+For this list: piracy VALUE: 1
+For this list: abuse VALUE: 1
+For this list: governement VALUE: 517
+For this list: quality VALUE: 296
+For this list: academic VALUE: 14
+For this list: news VALUE: 173
+For this list: university VALUE: 12
+For this list: technology VALUE: 12
+For this list: high_trust VALUE: 13
+
+Web-Report  
+
+title: Buy Sectigo SSL/TLS Certificates - Save 82% | Formerly Comodo CA
+url: https://sectigostore.com/
+
+-------------------
+LINK             : -10
+SPAM             : 81
+QUALITY          : 375
+DATA SIZE        : 7576 words in html
+
+SPAM    Ratio %  : 0.010691657866948258
+QUALITY Ratio %  : 0.049498416050686375
+CONTENT   : -3831
+GLOBAL Q  : Failed
+SECURITY  : Failed unsafe source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 80
+For this list: SPAM VALUE: 80
+For this list: QUALITY VALUE: 375
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 15
+For this list: GOOD_DOMAINS VALUE: 4
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 0
+For this list: ransomware VALUE: 0
+For this list: porn VALUE: 0
+For this list: phishing VALUE: 0
+For this list: crypto VALUE: 0
+For this list: ads VALUE: 0
+For this list: drugs VALUE: 0
+For this list: piracy VALUE: 0
+For this list: abuse VALUE: 0
+For this list: governement VALUE: 507
+For this list: quality VALUE: 375
+For this list: academic VALUE: 9
+For this list: news VALUE: 185
+For this list: university VALUE: 7
+For this list: technology VALUE: 7
+For this list: high_trust VALUE: 9
+
+Web-Report  
+
+title: Canada.ca
+url: https://www.canada.ca/
+
+-------------------
+LINK             : 0
+SPAM             : 6
+QUALITY          : 1
+DATA SIZE        : 119 words in html
+
+SPAM    Ratio %  : 0.05042016806722689
+QUALITY Ratio %  : 0.008403361344537815
+CONTENT   : -6
+GLOBAL Q  : Failed
+SECURITY  : No information about source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 6
+For this list: SPAM VALUE: 6
+For this list: QUALITY VALUE: 1
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 1
+For this list: GOOD_DOMAINS VALUE: 0
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 0
+For this list: ransomware VALUE: 0
+For this list: porn VALUE: 0
+For this list: phishing VALUE: 0
+For this list: crypto VALUE: 0
+For this list: ads VALUE: 0
+For this list: drugs VALUE: 0
+For this list: piracy VALUE: 0
+For this list: abuse VALUE: 0
+For this list: governement VALUE: 30
+For this list: quality VALUE: 1
+For this list: academic VALUE: 4
+For this list: news VALUE: 23
+For this list: university VALUE: 3
+For this list: technology VALUE: 3
+For this list: high_trust VALUE: 4
+
+Web-Report  
+
+title: CBC.ca - watch, listen, and discover with Canada's Public Broadcaster
+url: https://www.cbc.ca/
+
+-------------------
+LINK             : 5
+SPAM             : 38
+QUALITY          : 220
+DATA SIZE        : 1146 words in html
+
+SPAM    Ratio %  : 0.03315881326352531
+QUALITY Ratio %  : 0.19197207678883071
+CONTENT   : 1062
+GLOBAL Q  : Passed
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 38
+For this list: SPAM VALUE: 38
+For this list: QUALITY VALUE: 220
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 10
+For this list: GOOD_DOMAINS VALUE: 2
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 0
+For this list: ransomware VALUE: 0
+For this list: porn VALUE: 0
+For this list: phishing VALUE: 0
+For this list: crypto VALUE: 0
+For this list: ads VALUE: 0
+For this list: drugs VALUE: 0
+For this list: piracy VALUE: 0
+For this list: abuse VALUE: 0
+For this list: governement VALUE: 359
+For this list: quality VALUE: 220
+For this list: academic VALUE: 14
+For this list: news VALUE: 153
+For this list: university VALUE: 11
+For this list: technology VALUE: 11
+For this list: high_trust VALUE: 14
+
+Web-Report  
+
+title: Stock Markets, Business News, Financials, Earnings - CNBC
+url: https://www.cnbc.com/
+
+-------------------
+LINK             : 15
+SPAM             : 85
+QUALITY          : 523
+DATA SIZE        : 10727 words in html
+
+SPAM    Ratio %  : 0.00792393026941363
+QUALITY Ratio %  : 0.0487554768341568
+CONTENT   : 7760
+GLOBAL Q  : Passed
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 80
+For this list: SPAM VALUE: 80
+For this list: QUALITY VALUE: 523
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 15
+For this list: GOOD_DOMAINS VALUE: 4
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 1
+For this list: ransomware VALUE: 1
+For this list: porn VALUE: 1
+For this list: phishing VALUE: 1
+For this list: crypto VALUE: 1
+For this list: ads VALUE: 1
+For this list: drugs VALUE: 1
+For this list: piracy VALUE: 1
+For this list: abuse VALUE: 1
+For this list: governement VALUE: 695
+For this list: quality VALUE: 523
+For this list: academic VALUE: 9
+For this list: news VALUE: 250
+For this list: university VALUE: 6
+For this list: technology VALUE: 6
+For this list: high_trust VALUE: 8
+
+Web-Report  
+
+title: Consumer Information | Federal Trade Commission
+url: https://www.consumer.ftc.gov/
+
+-------------------
+LINK             : 0
+SPAM             : 26
+QUALITY          : 106
+DATA SIZE        : 919 words in html
+
+SPAM    Ratio %  : 0.028291621327529923
+QUALITY Ratio %  : 0.11534276387377584
+CONTENT   : -26
+GLOBAL Q  : Failed
+SECURITY  : No information about source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 26
+For this list: SPAM VALUE: 26
+For this list: QUALITY VALUE: 106
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 6
+For this list: GOOD_DOMAINS VALUE: 3
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 1
+For this list: ransomware VALUE: 1
+For this list: porn VALUE: 1
+For this list: phishing VALUE: 1
+For this list: crypto VALUE: 1
+For this list: ads VALUE: 1
+For this list: drugs VALUE: 1
+For this list: piracy VALUE: 1
+For this list: abuse VALUE: 1
+For this list: governement VALUE: 239
+For this list: quality VALUE: 106
+For this list: academic VALUE: 9
+For this list: news VALUE: 117
+For this list: university VALUE: 8
+For this list: technology VALUE: 8
+For this list: high_trust VALUE: 9
+
+Web-Report  
+
+title: DocuSign | #1 in Electronic Signature and Agreement Cloud
+url: https://www.docusign.com/
+
+-------------------
+LINK             : 10
+SPAM             : 48
+QUALITY          : 161
+DATA SIZE        : 3881 words in html
+
+SPAM    Ratio %  : 0.012367946405565575
+QUALITY Ratio %  : 0.04148415356866787
+CONTENT   : 1562
+GLOBAL Q  : Passed
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 45
+For this list: SPAM VALUE: 45
+For this list: QUALITY VALUE: 161
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 10
+For this list: GOOD_DOMAINS VALUE: 3
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 1
+For this list: ransomware VALUE: 1
+For this list: porn VALUE: 1
+For this list: phishing VALUE: 1
+For this list: crypto VALUE: 1
+For this list: ads VALUE: 1
+For this list: drugs VALUE: 1
+For this list: piracy VALUE: 1
+For this list: abuse VALUE: 1
+For this list: governement VALUE: 326
+For this list: quality VALUE: 161
+For this list: academic VALUE: 12
+For this list: news VALUE: 136
+For this list: university VALUE: 11
+For this list: technology VALUE: 11
+For this list: high_trust VALUE: 12
+
+Web-Report  
+
+title: Google
+url: https://www.google.com/
+
+-------------------
+LINK             : 5
+SPAM             : 19
+QUALITY          : 124
+DATA SIZE        : 1553 words in html
+
+SPAM    Ratio %  : 0.012234385061171926
+QUALITY Ratio %  : 0.0798454603992273
+CONTENT   : 601
+GLOBAL Q  : Passed
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 19
+For this list: SPAM VALUE: 19
+For this list: QUALITY VALUE: 124
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 7
+For this list: GOOD_DOMAINS VALUE: 3
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 1
+For this list: ransomware VALUE: 1
+For this list: porn VALUE: 1
+For this list: phishing VALUE: 1
+For this list: crypto VALUE: 1
+For this list: ads VALUE: 1
+For this list: drugs VALUE: 1
+For this list: piracy VALUE: 1
+For this list: abuse VALUE: 1
+For this list: governement VALUE: 278
+For this list: quality VALUE: 124
+For this list: academic VALUE: 6
+For this list: news VALUE: 112
+For this list: university VALUE: 4
+For this list: technology VALUE: 4
+For this list: high_trust VALUE: 5
+
+Web-Report  
+
+title: Investopedia: Sharper insight, better investing.
+url: https://www.investopedia.com/
+
+-------------------
+LINK             : 5
+SPAM             : 32
+QUALITY          : 81
+DATA SIZE        : 1289 words in html
+
+SPAM    Ratio %  : 0.02482544608223429
+QUALITY Ratio %  : 0.06283941039565555
+CONTENT   : 373
+GLOBAL Q  : Passed
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 28
+For this list: SPAM VALUE: 28
+For this list: QUALITY VALUE: 81
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 5
+For this list: GOOD_DOMAINS VALUE: 3
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 1
+For this list: ransomware VALUE: 1
+For this list: porn VALUE: 1
+For this list: phishing VALUE: 1
+For this list: crypto VALUE: 1
+For this list: ads VALUE: 1
+For this list: drugs VALUE: 1
+For this list: piracy VALUE: 1
+For this list: abuse VALUE: 1
+For this list: governement VALUE: 216
+For this list: quality VALUE: 81
+For this list: academic VALUE: 5
+For this list: news VALUE: 121
+For this list: university VALUE: 5
+For this list: technology VALUE: 5
+For this list: high_trust VALUE: 5
+
+Web-Report  
+
+title: wikiHow: How-to instructions you can trust.
+url: https://www.wikihow.com/
+
+-------------------
+LINK             : -5
+SPAM             : 57
+QUALITY          : 380
+DATA SIZE        : 4605 words in html
+
+SPAM    Ratio %  : 0.012377850162866449
+QUALITY Ratio %  : 0.08251900108577633
+CONTENT   : -1957
+GLOBAL Q  : Failed
+SECURITY  : Failed unsafe source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 57
+For this list: SPAM VALUE: 57
+For this list: QUALITY VALUE: 380
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 14
+For this list: GOOD_DOMAINS VALUE: 4
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 1
+For this list: ransomware VALUE: 1
+For this list: porn VALUE: 1
+For this list: phishing VALUE: 1
+For this list: crypto VALUE: 1
+For this list: ads VALUE: 1
+For this list: drugs VALUE: 1
+For this list: piracy VALUE: 1
+For this list: abuse VALUE: 1
+For this list: governement VALUE: 548
+For this list: quality VALUE: 380
+For this list: academic VALUE: 8
+For this list: news VALUE: 198
+For this list: university VALUE: 7
+For this list: technology VALUE: 7
+For this list: high_trust VALUE: 7
+
+Web-Report  
+
+title: News | Open Source Initiative
+url: http://opensource.org/
+
+-------------------
+LINK             : -5
+SPAM             : 34
+QUALITY          : 149
+DATA SIZE        : 1039 words in html
+
+SPAM    Ratio %  : 0.032723772858517804
+QUALITY Ratio %  : 0.14340712223291627
+CONTENT   : -779
+GLOBAL Q  : Failed
+SECURITY  : Failed unsafe source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 33
+For this list: SPAM VALUE: 33
+For this list: QUALITY VALUE: 149
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 10
+For this list: GOOD_DOMAINS VALUE: 3
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 1
+For this list: ransomware VALUE: 1
+For this list: porn VALUE: 1
+For this list: phishing VALUE: 1
+For this list: crypto VALUE: 1
+For this list: ads VALUE: 1
+For this list: drugs VALUE: 1
+For this list: piracy VALUE: 1
+For this list: abuse VALUE: 1
+For this list: governement VALUE: 296
+For this list: quality VALUE: 149
+For this list: academic VALUE: 8
+For this list: news VALUE: 129
+For this list: university VALUE: 6
+For this list: technology VALUE: 6
+For this list: high_trust VALUE: 7
+
+Web-Report  
+
+title: Bitcoin - Open source P2P money
+url: https://bitcoin.org/
+
+-------------------
+LINK             : 0
+SPAM             : 28
+QUALITY          : 93
+DATA SIZE        : 891 words in html
+
+SPAM    Ratio %  : 0.031425364758698095
+QUALITY Ratio %  : 0.10437710437710437
+CONTENT   : -28
+GLOBAL Q  : Failed
+SECURITY  : No information about source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 28
+For this list: SPAM VALUE: 28
+For this list: QUALITY VALUE: 93
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 8
+For this list: GOOD_DOMAINS VALUE: 5
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 0
+For this list: ransomware VALUE: 0
+For this list: porn VALUE: 0
+For this list: phishing VALUE: 0
+For this list: crypto VALUE: 0
+For this list: ads VALUE: 0
+For this list: drugs VALUE: 0
+For this list: piracy VALUE: 0
+For this list: abuse VALUE: 0
+For this list: governement VALUE: 213
+For this list: quality VALUE: 93
+For this list: academic VALUE: 8
+For this list: news VALUE: 103
+For this list: university VALUE: 5
+For this list: technology VALUE: 5
+For this list: high_trust VALUE: 7
+
+Web-Report  
+
+title: Getting Started — Bitcoin
+url: https://developer.bitcoin.org/
+
+-------------------
+LINK             : 0
+SPAM             : 41
+QUALITY          : 205
+DATA SIZE        : 3567 words in html
+
+SPAM    Ratio %  : 0.011494252873563218
+QUALITY Ratio %  : 0.05747126436781609
+CONTENT   : -41
+GLOBAL Q  : Failed
+SECURITY  : No information about source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 40
+For this list: SPAM VALUE: 40
+For this list: QUALITY VALUE: 205
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 9
+For this list: GOOD_DOMAINS VALUE: 4
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 1
+For this list: ransomware VALUE: 1
+For this list: porn VALUE: 1
+For this list: phishing VALUE: 1
+For this list: crypto VALUE: 1
+For this list: ads VALUE: 1
+For this list: drugs VALUE: 1
+For this list: piracy VALUE: 1
+For this list: abuse VALUE: 1
+For this list: governement VALUE: 335
+For this list: quality VALUE: 205
+For this list: academic VALUE: 9
+For this list: news VALUE: 162
+For this list: university VALUE: 9
+For this list: technology VALUE: 9
+For this list: high_trust VALUE: 9
+
+Web-Report  
+
+title: Google Play
+url: https://play.google.com/
+
+-------------------
+LINK             : 10
+SPAM             : 101
+QUALITY          : 1006
+DATA SIZE        : 16436 words in html
+
+SPAM    Ratio %  : 0.006145047456802142
+QUALITY Ratio %  : 0.06120710635191044
+CONTENT   : 9959
+GLOBAL Q  : Passed
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 101
+For this list: SPAM VALUE: 101
+For this list: QUALITY VALUE: 1006
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 18
+For this list: GOOD_DOMAINS VALUE: 10
+For this list: ACCEPTABLE_DOMAINS VALUE: 1
+For this list: scam VALUE: 1
+For this list: ransomware VALUE: 1
+For this list: porn VALUE: 1
+For this list: phishing VALUE: 1
+
+Web-Report  
+
+title: SSL Certificate Types | Types of SSL Certificates by Sectigo
+url: https://sectigostore.com/ssl-types
+
+-------------------
+LINK             : -10
+SPAM             : 49
+QUALITY          : 158
+DATA SIZE        : 3238 words in html
+
+SPAM    Ratio %  : 0.015132798023471278
+QUALITY Ratio %  : 0.04879555281037678
+CONTENT   : -1629
+GLOBAL Q  : Failed
+SECURITY  : Failed unsafe source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 47
+For this list: SPAM VALUE: 47
+For this list: QUALITY VALUE: 158
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 7
+For this list: GOOD_DOMAINS VALUE: 2
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 0
+For this list: ransomware VALUE: 0
+For this list: porn VALUE: 0
+For this list: phishing VALUE: 0
+For this list: crypto VALUE: 0
+For this list: ads VALUE: 0
+For this list: drugs VALUE: 0
+For this list: piracy VALUE: 0
+For this list: abuse VALUE: 0
+For this list: governement VALUE: 297
+For this list: quality VALUE: 158
+For this list: academic VALUE: 6
+For this list: news VALUE: 5
+For this list: university VALUE: 97
+For this list: technology VALUE: 97
+For this list: high_trust VALUE: 6
+
+Web-Report  
+
+title: Sectigo Website Security Products | Malware & PCI Scanning Solutions
+url: https://sectigostore.com/website-security
+
+-------------------
+LINK             : -10
+SPAM             : 40
+QUALITY          : 180
+DATA SIZE        : 2077 words in html
+
+SPAM    Ratio %  : 0.019258545979778528
+QUALITY Ratio %  : 0.08666345690900337
+CONTENT   : -1840
+GLOBAL Q  : Failed
+SECURITY  : Failed unsafe source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 39
+For this list: SPAM VALUE: 39
+For this list: QUALITY VALUE: 180
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 8
+For this list: GOOD_DOMAINS VALUE: 4
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 0
+For this list: ransomware VALUE: 0
+For this list: porn VALUE: 0
+For this list: phishing VALUE: 0
+For this list: crypto VALUE: 0
+For this list: ads VALUE: 0
+For this list: drugs VALUE: 0
+For this list: piracy VALUE: 0
+For this list: abuse VALUE: 0
+For this list: governement VALUE: 310
+For this list: quality VALUE: 180
+For this list: academic VALUE: 7
+For this list: news VALUE: 4
+For this list: university VALUE: 115
+For this list: technology VALUE: 115
+For this list: high_trust VALUE: 7
+
+Web-Report  
+
+title: Google Transparency Report
+url: https://transparencyreport.google.com/safe-browsing/search
+
+-------------------
+LINK             : 5
+SPAM             : 1
+QUALITY          : 1
+DATA SIZE        : 4 words in html
+
+SPAM    Ratio %  : 0.25
+QUALITY Ratio %  : 0.25
+CONTENT   : 4
+GLOBAL Q  : Passed
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 1
+For this list: SPAM VALUE: 1
+For this list: QUALITY VALUE: 1
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 0
+For this list: GOOD_DOMAINS VALUE: 0
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 0
+For this list: ransomware VALUE: 0
+For this list: porn VALUE: 0
+For this list: phishing VALUE: 0
+For this list: crypto VALUE: 0
+For this list: ads VALUE: 0
+For this list: drugs VALUE: 0
+For this list: piracy VALUE: 0
+For this list: abuse VALUE: 0
+For this list: governement VALUE: 20
+For this list: quality VALUE: 1
+For this list: academic VALUE: 2
+For this list: news VALUE: 1
+For this list: university VALUE: 6
+For this list: technology VALUE: 6
+For this list: high_trust VALUE: 2
+
+Web-Report  
+
+title: 
+	BBB Scam Tracker℠  | Find and Report a Scam | Better Business Bureau
+
+url: https://www.bbb.org/scamtracker/us/
+
+-------------------
+LINK             : 0
+SPAM             : 42
+QUALITY          : 134
+DATA SIZE        : 1430 words in html
+
+SPAM    Ratio %  : 0.02937062937062937
+QUALITY Ratio %  : 0.0937062937062937
+CONTENT   : -42
+GLOBAL Q  : Failed
+SECURITY  : No information about source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 42
+For this list: SPAM VALUE: 42
+For this list: QUALITY VALUE: 134
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 5
+For this list: GOOD_DOMAINS VALUE: 4
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 0
+For this list: ransomware VALUE: 0
+For this list: porn VALUE: 0
+For this list: phishing VALUE: 0
+For this list: crypto VALUE: 0
+For this list: ads VALUE: 0
+For this list: drugs VALUE: 0
+For this list: piracy VALUE: 0
+For this list: abuse VALUE: 0
+For this list: governement VALUE: 286
+For this list: quality VALUE: 134
+For this list: academic VALUE: 9
+For this list: news VALUE: 5
+For this list: university VALUE: 81
+For this list: technology VALUE: 81
+For this list: high_trust VALUE: 8
+
+Web-Report  
+
+title: Google Code
+url: http://code.google.com/
+
+-------------------
+LINK             : 10
+SPAM             : 20
+QUALITY          : 65
+DATA SIZE        : 678 words in html
+
+SPAM    Ratio %  : 0.029498525073746312
+QUALITY Ratio %  : 0.09587020648967552
+CONTENT   : 630
+GLOBAL Q  : Passed
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 20
+For this list: SPAM VALUE: 20
+For this list: QUALITY VALUE: 65
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 8
+For this list: GOOD_DOMAINS VALUE: 6
+For this list: ACCEPTABLE_DOMAINS VALUE: 1
+For this list: scam VALUE: 1
+For this list: ransomware VALUE: 1
+For this list: porn VALUE: 1
+For this list: phishing VALUE: 1
+For this list: crypto VALUE: 1
+For this list: ads VALUE: 1
+For this list: drugs VALUE: 1
+For this list: piracy VALUE: 1
+For this list: abuse VALUE: 1
+For this list: governement VALUE: 172
+For this list: quality VALUE: 65
+For this list: academic VALUE: 6
+For this list: news VALUE: 4
+For this list: university VALUE: 41
+For this list: technology VALUE: 41
+For this list: high_trust VALUE: 6
+
+Web-Report  
+
+title: Programmable Search Engine by Google
+url: https://cse.google.com/
+
+-------------------
+LINK             : 10
+SPAM             : 18
+QUALITY          : 65
+DATA SIZE        : 1192 words in html
+
+SPAM    Ratio %  : 0.015100671140939598
+QUALITY Ratio %  : 0.05453020134228188
+CONTENT   : 632
+GLOBAL Q  : Passed
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 18
+For this list: SPAM VALUE: 18
+For this list: QUALITY VALUE: 65
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 3
+For this list: GOOD_DOMAINS VALUE: 3
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 0
+For this list: ransomware VALUE: 0
+For this list: porn VALUE: 0
+For this list: phishing VALUE: 0
+For this list: crypto VALUE: 0
+For this list: ads VALUE: 0
+For this list: drugs VALUE: 0
+For this list: piracy VALUE: 0
+For this list: abuse VALUE: 0
+For this list: governement VALUE: 181
+For this list: quality VALUE: 65
+For this list: academic VALUE: 11
+For this list: news VALUE: 1
+For this list: university VALUE: 62
+For this list: technology VALUE: 62
+For this list: high_trust VALUE: 11
+
+Web-Report  
+
+title: Help for your Yahoo Account
+url: https://help.yahoo.com/
+
+-------------------
+LINK             : 10
+SPAM             : 48
+QUALITY          : 215
+DATA SIZE        : 4195 words in html
+
+SPAM    Ratio %  : 0.011442193087008343
+QUALITY Ratio %  : 0.05125148986889154
+CONTENT   : 2102
+GLOBAL Q  : Passed
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 48
+For this list: SPAM VALUE: 48
+For this list: QUALITY VALUE: 215
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 11
+For this list: GOOD_DOMAINS VALUE: 9
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 1
+For this list: ransomware VALUE: 1
+For this list: porn VALUE: 1
+For this list: phishing VALUE: 1
+For this list: crypto VALUE: 1
+For this list: ads VALUE: 1
+For this list: drugs VALUE: 1
+For this list: piracy VALUE: 1
+For this list: abuse VALUE: 1
+For this list: governement VALUE: 429
+For this list: quality VALUE: 215
+For this list: academic VALUE: 7
+For this list: news VALUE: 8
+For this list: university VALUE: 113
+For this list: technology VALUE: 113
+For this list: high_trust VALUE: 6
+
+Web-Report  
+
+title: State of California - Department of Justice - Office of the Attorney General
+url: https://oag.ca.gov/
+
+-------------------
+LINK             : 10
+SPAM             : 41
+QUALITY          : 296
+DATA SIZE        : 4706 words in html
+
+SPAM    Ratio %  : 0.008712282192945177
+QUALITY Ratio %  : 0.06289842753931152
+CONTENT   : 2919
+GLOBAL Q  : Passed
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 41
+For this list: SPAM VALUE: 41
+For this list: QUALITY VALUE: 296
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 12
+For this list: GOOD_DOMAINS VALUE: 8
+For this list: ACCEPTABLE_DOMAINS VALUE: 1
+For this list: scam VALUE: 1
+For this list: ransomware VALUE: 1
+For this list: porn VALUE: 1
+For this list: phishing VALUE: 1
+For this list: crypto VALUE: 1
+For this list: ads VALUE: 1
+For this list: drugs VALUE: 1
+For this list: piracy VALUE: 1
+For this list: abuse VALUE: 1
+For this list: governement VALUE: 517
+For this list: quality VALUE: 296
+For this list: academic VALUE: 14
+For this list: news VALUE: 11
+For this list: university VALUE: 133
+For this list: technology VALUE: 133
+For this list: high_trust VALUE: 13
+
+Web-Report  
+
+title: Buy Sectigo SSL/TLS Certificates - Save 82% | Formerly Comodo CA
+url: https://sectigostore.com/
+
+-------------------
+LINK             : -10
+SPAM             : 81
+QUALITY          : 375
+DATA SIZE        : 7576 words in html
+
+SPAM    Ratio %  : 0.010691657866948258
+QUALITY Ratio %  : 0.049498416050686375
+CONTENT   : -3831
+GLOBAL Q  : Failed
+SECURITY  : Failed unsafe source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 80
+For this list: SPAM VALUE: 80
+For this list: QUALITY VALUE: 375
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 15
+For this list: GOOD_DOMAINS VALUE: 6
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 0
+For this list: ransomware VALUE: 0
+For this list: porn VALUE: 0
+For this list: phishing VALUE: 0
+For this list: crypto VALUE: 0
+For this list: ads VALUE: 0
+For this list: drugs VALUE: 0
+For this list: piracy VALUE: 0
+For this list: abuse VALUE: 0
+For this list: governement VALUE: 507
+For this list: quality VALUE: 375
+For this list: academic VALUE: 9
+For this list: news VALUE: 6
+For this list: university VALUE: 176
+For this list: technology VALUE: 176
+For this list: high_trust VALUE: 9
+
+Web-Report  
+
+title: Canada.ca
+url: https://www.canada.ca/
+
+-------------------
+LINK             : 0
+SPAM             : 6
+QUALITY          : 1
+DATA SIZE        : 119 words in html
+
+SPAM    Ratio %  : 0.05042016806722689
+QUALITY Ratio %  : 0.008403361344537815
+CONTENT   : -6
+GLOBAL Q  : Failed
+SECURITY  : No information about source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 6
+For this list: SPAM VALUE: 6
+For this list: QUALITY VALUE: 1
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 1
+For this list: GOOD_DOMAINS VALUE: 0
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 0
+For this list: ransomware VALUE: 0
+For this list: porn VALUE: 0
+For this list: phishing VALUE: 0
+For this list: crypto VALUE: 0
+For this list: ads VALUE: 0
+For this list: drugs VALUE: 0
+For this list: piracy VALUE: 0
+For this list: abuse VALUE: 0
+For this list: governement VALUE: 30
+For this list: quality VALUE: 1
+For this list: academic VALUE: 4
+For this list: news VALUE: 1
+For this list: university VALUE: 11
+For this list: technology VALUE: 11
+For this list: high_trust VALUE: 4
+
+Web-Report  
+
+title: CBC.ca - watch, listen, and discover with Canada's Public Broadcaster
+url: https://www.cbc.ca/
+
+-------------------
+LINK             : 5
+SPAM             : 38
+QUALITY          : 220
+DATA SIZE        : 1146 words in html
+
+SPAM    Ratio %  : 0.03315881326352531
+QUALITY Ratio %  : 0.19197207678883071
+CONTENT   : 1062
+GLOBAL Q  : Passed
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 38
+For this list: SPAM VALUE: 38
+For this list: QUALITY VALUE: 220
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 10
+For this list: GOOD_DOMAINS VALUE: 3
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 0
+For this list: ransomware VALUE: 0
+For this list: porn VALUE: 0
+For this list: phishing VALUE: 0
+For this list: crypto VALUE: 0
+For this list: ads VALUE: 0
+For this list: drugs VALUE: 0
+For this list: piracy VALUE: 0
+For this list: abuse VALUE: 0
+For this list: governement VALUE: 359
+For this list: quality VALUE: 220
+For this list: academic VALUE: 14
+For this list: news VALUE: 4
+For this list: university VALUE: 125
+For this list: technology VALUE: 125
+For this list: high_trust VALUE: 14
+
+Web-Report  
+
+title: Stock Markets, Business News, Financials, Earnings - CNBC
+url: https://www.cnbc.com/
+
+-------------------
+LINK             : 15
+SPAM             : 85
+QUALITY          : 523
+DATA SIZE        : 10727 words in html
+
+SPAM    Ratio %  : 0.00792393026941363
+QUALITY Ratio %  : 0.0487554768341568
+CONTENT   : 7760
+GLOBAL Q  : Passed
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 80
+For this list: SPAM VALUE: 80
+For this list: QUALITY VALUE: 523
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 15
+For this list: GOOD_DOMAINS VALUE: 8
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 1
+For this list: ransomware VALUE: 1
+For this list: porn VALUE: 1
+For this list: phishing VALUE: 1
+For this list: crypto VALUE: 1
+For this list: ads VALUE: 1
+For this list: drugs VALUE: 1
+For this list: piracy VALUE: 1
+For this list: abuse VALUE: 1
+For this list: governement VALUE: 695
+For this list: quality VALUE: 523
+For this list: academic VALUE: 9
+For this list: news VALUE: 8
+For this list: university VALUE: 202
+For this list: technology VALUE: 202
+For this list: high_trust VALUE: 8
+
+Web-Report  
+
+title: Consumer Information | Federal Trade Commission
+url: https://www.consumer.ftc.gov/
+
+-------------------
+LINK             : 0
+SPAM             : 26
+QUALITY          : 106
+DATA SIZE        : 919 words in html
+
+SPAM    Ratio %  : 0.028291621327529923
+QUALITY Ratio %  : 0.11534276387377584
+CONTENT   : -26
+GLOBAL Q  : Failed
+SECURITY  : No information about source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 26
+For this list: SPAM VALUE: 26
+For this list: QUALITY VALUE: 106
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 6
+For this list: GOOD_DOMAINS VALUE: 3
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 1
+For this list: ransomware VALUE: 1
+For this list: porn VALUE: 1
+For this list: phishing VALUE: 1
+For this list: crypto VALUE: 1
+For this list: ads VALUE: 1
+For this list: drugs VALUE: 1
+For this list: piracy VALUE: 1
+For this list: abuse VALUE: 1
+For this list: governement VALUE: 239
+For this list: quality VALUE: 106
+For this list: academic VALUE: 9
+For this list: news VALUE: 3
+For this list: university VALUE: 76
+For this list: technology VALUE: 76
+For this list: high_trust VALUE: 9
+
+Web-Report  
+
+title: DocuSign | #1 in Electronic Signature and Agreement Cloud
+url: https://www.docusign.com/
+
+-------------------
+LINK             : 10
+SPAM             : 48
+QUALITY          : 161
+DATA SIZE        : 3881 words in html
+
+SPAM    Ratio %  : 0.012367946405565575
+QUALITY Ratio %  : 0.04148415356866787
+CONTENT   : 1562
+GLOBAL Q  : Passed
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 45
+For this list: SPAM VALUE: 45
+For this list: QUALITY VALUE: 161
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 10
+For this list: GOOD_DOMAINS VALUE: 5
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 1
+For this list: ransomware VALUE: 1
+For this list: porn VALUE: 1
+For this list: phishing VALUE: 1
+For this list: crypto VALUE: 1
+For this list: ads VALUE: 1
+For this list: drugs VALUE: 1
+For this list: piracy VALUE: 1
+For this list: abuse VALUE: 1
+For this list: governement VALUE: 326
+For this list: quality VALUE: 161
+For this list: academic VALUE: 12
+For this list: news VALUE: 5
+For this list: university VALUE: 111
+For this list: technology VALUE: 111
+For this list: high_trust VALUE: 12
+
+Web-Report  
+
+title: Google
+url: https://www.google.com/
+
+-------------------
+LINK             : 5
+SPAM             : 19
+QUALITY          : 124
+DATA SIZE        : 1553 words in html
+
+SPAM    Ratio %  : 0.012234385061171926
+QUALITY Ratio %  : 0.0798454603992273
+CONTENT   : 601
+GLOBAL Q  : Passed
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 19
+For this list: SPAM VALUE: 19
+For this list: QUALITY VALUE: 124
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 7
+For this list: GOOD_DOMAINS VALUE: 3
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 1
+For this list: ransomware VALUE: 1
+For this list: porn VALUE: 1
+For this list: phishing VALUE: 1
+For this list: crypto VALUE: 1
+For this list: ads VALUE: 1
+For this list: drugs VALUE: 1
+For this list: piracy VALUE: 1
+For this list: abuse VALUE: 1
+For this list: governement VALUE: 278
+For this list: quality VALUE: 124
+For this list: academic VALUE: 6
+For this list: news VALUE: 3
+For this list: university VALUE: 59
+For this list: technology VALUE: 59
+For this list: high_trust VALUE: 5
+
+Web-Report  
+
+title: Investopedia: Sharper insight, better investing.
+url: https://www.investopedia.com/
+
+-------------------
+LINK             : 5
+SPAM             : 32
+QUALITY          : 81
+DATA SIZE        : 1289 words in html
+
+SPAM    Ratio %  : 0.02482544608223429
+QUALITY Ratio %  : 0.06283941039565555
+CONTENT   : 373
+GLOBAL Q  : Passed
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 28
+For this list: SPAM VALUE: 28
+For this list: QUALITY VALUE: 81
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 5
+For this list: GOOD_DOMAINS VALUE: 3
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 1
+For this list: ransomware VALUE: 1
+For this list: porn VALUE: 1
+For this list: phishing VALUE: 1
+For this list: crypto VALUE: 1
+For this list: ads VALUE: 1
+For this list: drugs VALUE: 1
+For this list: piracy VALUE: 1
+For this list: abuse VALUE: 1
+For this list: governement VALUE: 216
+For this list: quality VALUE: 81
+For this list: academic VALUE: 5
+For this list: news VALUE: 2
+For this list: university VALUE: 64
+For this list: technology VALUE: 64
+For this list: high_trust VALUE: 5
+
+Web-Report  
+
+title: wikiHow: How-to instructions you can trust.
+url: https://www.wikihow.com/
+
+-------------------
+LINK             : 5
+SPAM             : 57
+QUALITY          : 380
+DATA SIZE        : 4605 words in html
+
+SPAM    Ratio %  : 0.012377850162866449
+QUALITY Ratio %  : 0.08251900108577633
+CONTENT   : 1843
+GLOBAL Q  : Passed
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 57
+For this list: SPAM VALUE: 57
+For this list: QUALITY VALUE: 380
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 14
+For this list: GOOD_DOMAINS VALUE: 8
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 1
+For this list: ransomware VALUE: 1
+For this list: porn VALUE: 1
+For this list: phishing VALUE: 1
+For this list: crypto VALUE: 1
+For this list: ads VALUE: 1
+For this list: drugs VALUE: 1
+For this list: piracy VALUE: 1
+For this list: abuse VALUE: 1
+For this list: governement VALUE: 548
+For this list: quality VALUE: 380
+For this list: academic VALUE: 8
+For this list: news VALUE: 7
+For this list: university VALUE: 175
+For this list: technology VALUE: 175
+For this list: high_trust VALUE: 7
+
+Web-Report  
+
+title: News | Open Source Initiative
+url: http://opensource.org/
+
+-------------------
+LINK             : -5
+SPAM             : 34
+QUALITY          : 149
+DATA SIZE        : 1039 words in html
+
+SPAM    Ratio %  : 0.032723772858517804
+QUALITY Ratio %  : 0.14340712223291627
+CONTENT   : -779
+GLOBAL Q  : Failed
+SECURITY  : Failed unsafe source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 33
+For this list: SPAM VALUE: 33
+For this list: QUALITY VALUE: 149
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 10
+For this list: GOOD_DOMAINS VALUE: 4
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 1
+For this list: ransomware VALUE: 1
+For this list: porn VALUE: 1
+For this list: phishing VALUE: 1
+For this list: crypto VALUE: 1
+For this list: ads VALUE: 1
+For this list: drugs VALUE: 1
+For this list: piracy VALUE: 1
+For this list: abuse VALUE: 1
+For this list: governement VALUE: 296
+For this list: quality VALUE: 149
+For this list: academic VALUE: 8
+For this list: news VALUE: 7
+For this list: university VALUE: 119
+For this list: technology VALUE: 119
+For this list: high_trust VALUE: 7
+
+Web-Report  
+
+title: Bitcoin - Open source P2P money
+url: https://bitcoin.org/
+
+-------------------
+LINK             : 0
+SPAM             : 28
+QUALITY          : 93
+DATA SIZE        : 891 words in html
+
+SPAM    Ratio %  : 0.031425364758698095
+QUALITY Ratio %  : 0.10437710437710437
+CONTENT   : -28
+GLOBAL Q  : Failed
+SECURITY  : No information about source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 28
+For this list: SPAM VALUE: 28
+For this list: QUALITY VALUE: 93
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 8
+For this list: GOOD_DOMAINS VALUE: 5
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 0
+For this list: ransomware VALUE: 0
+For this list: porn VALUE: 0
+For this list: phishing VALUE: 0
+For this list: crypto VALUE: 0
+For this list: ads VALUE: 0
+For this list: drugs VALUE: 0
+For this list: piracy VALUE: 0
+For this list: abuse VALUE: 0
+For this list: governement VALUE: 213
+For this list: quality VALUE: 93
+For this list: academic VALUE: 8
+For this list: news VALUE: 2
+For this list: university VALUE: 75
+For this list: technology VALUE: 75
+For this list: high_trust VALUE: 7
+
+Web-Report  
+
+title: Getting Started — Bitcoin
+url: https://developer.bitcoin.org/
+
+-------------------
+LINK             : 0
+SPAM             : 41
+QUALITY          : 205
+DATA SIZE        : 3567 words in html
+
+SPAM    Ratio %  : 0.011494252873563218
+QUALITY Ratio %  : 0.05747126436781609
+CONTENT   : -41
+GLOBAL Q  : Failed
+SECURITY  : No information about source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 40
+For this list: SPAM VALUE: 40
+For this list: QUALITY VALUE: 205
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 9
+For this list: GOOD_DOMAINS VALUE: 5
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 1
+For this list: ransomware VALUE: 1
+For this list: porn VALUE: 1
+For this list: phishing VALUE: 1
+For this list: crypto VALUE: 1
+For this list: ads VALUE: 1
+For this list: drugs VALUE: 1
+For this list: piracy VALUE: 1
+For this list: abuse VALUE: 1
+For this list: governement VALUE: 335
+For this list: quality VALUE: 205
+For this list: academic VALUE: 9
+For this list: news VALUE: 6
+For this list: university VALUE: 114
+For this list: technology VALUE: 114
+For this list: high_trust VALUE: 9
+
+Web-Report  
+
+title: Google Play
+url: https://play.google.com/
+
+-------------------
+LINK             : 10
+SPAM             : 101
+QUALITY          : 1011
+DATA SIZE        : 17058 words in html
+
+SPAM    Ratio %  : 0.005920975495368742
+QUALITY Ratio %  : 0.059268378473443545
+CONTENT   : 10009
+GLOBAL Q  : Passed
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 101
+For this list: SPAM VALUE: 101
+For this list: QUALITY VALUE: 1011
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 18
+For this list: GOOD_DOMAINS VALUE: 13
+For this list: ACCEPTABLE_DOMAINS VALUE: 1
+For this list: scam VALUE: 1
+For this list: ransomware VALUE: 1
+For this list: porn VALUE: 1
+For this list: phishing VALUE: 1
+For this list: crypto VALUE: 1
+For this list: ads VALUE: 1
+For this list: drugs VALUE: 1
+For this list: piracy VALUE: 1
+For this list: abuse VALUE: 1
+
+Web-Report  
+
+title: SSL Certificate Types | Types of SSL Certificates by Sectigo
+url: https://sectigostore.com/ssl-types
+
+-------------------
+LINK             : -5
+SPAM             : 49
+QUALITY          : 158
+DATA SIZE        : 3238 words in html
+
+SPAM    Ratio %  : 0.015132798023471278
+QUALITY Ratio %  : 0.04879555281037678
+CONTENT   : -839
+GLOBAL Q  : Failed
+SECURITY  : Failed unsafe source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 0
+For this list: SPAM VALUE: 0
+For this list: QUALITY VALUE: 11
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 1
+For this list: GOOD_DOMAINS VALUE: 0
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 0
+For this list: ransomware VALUE: 0
+For this list: porn VALUE: 0
+For this list: phishing VALUE: 0
+For this list: crypto VALUE: 0
+For this list: ads VALUE: 0
+For this list: drugs VALUE: 0
+For this list: piracy VALUE: 0
+For this list: abuse VALUE: 0
+For this list: governement VALUE: 24
+For this list: quality VALUE: 11
+For this list: academic VALUE: 6
+For this list: news VALUE: 3
+For this list: university VALUE: 4
+For this list: technology VALUE: 4
+For this list: high_trust VALUE: 7
+
+Web-Report  
+
+title: Sectigo Website Security Products | Malware & PCI Scanning Solutions
+url: https://sectigostore.com/website-security
+
+-------------------
+LINK             : -10
+SPAM             : 40
+QUALITY          : 180
+DATA SIZE        : 2077 words in html
+
+SPAM    Ratio %  : 0.019258545979778528
+QUALITY Ratio %  : 0.08666345690900337
+CONTENT   : -1840
+GLOBAL Q  : Failed
+SECURITY  : Failed unsafe source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 0
+For this list: SPAM VALUE: 0
+For this list: QUALITY VALUE: 12
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 3
+For this list: GOOD_DOMAINS VALUE: 0
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 0
+For this list: ransomware VALUE: 0
+For this list: porn VALUE: 0
+For this list: phishing VALUE: 0
+For this list: crypto VALUE: 0
+For this list: ads VALUE: 0
+For this list: drugs VALUE: 0
+For this list: piracy VALUE: 0
+For this list: abuse VALUE: 0
+For this list: governement VALUE: 38
+For this list: quality VALUE: 12
+For this list: academic VALUE: 10
+For this list: news VALUE: 3
+For this list: university VALUE: 9
+For this list: technology VALUE: 9
+For this list: high_trust VALUE: 11
+
+Web-Report  
+
+title: Google Transparency Report
+url: https://transparencyreport.google.com/safe-browsing/search
+
+-------------------
+LINK             : 0
+SPAM             : 1
+QUALITY          : 1
+DATA SIZE        : 4 words in html
+
+SPAM    Ratio %  : 0.25
+QUALITY Ratio %  : 0.25
+CONTENT   : -1
+GLOBAL Q  : Failed
+SECURITY  : No information about source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 0
+For this list: SPAM VALUE: 0
+For this list: QUALITY VALUE: 0
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 0
+For this list: GOOD_DOMAINS VALUE: 0
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 0
+For this list: ransomware VALUE: 0
+For this list: porn VALUE: 0
+For this list: phishing VALUE: 0
+For this list: crypto VALUE: 0
+For this list: ads VALUE: 0
+For this list: drugs VALUE: 0
+For this list: piracy VALUE: 0
+For this list: abuse VALUE: 0
+For this list: governement VALUE: 0
+For this list: quality VALUE: 0
+For this list: academic VALUE: 0
+For this list: news VALUE: 0
+For this list: university VALUE: 0
+For this list: technology VALUE: 0
+For this list: high_trust VALUE: 0
+
+Web-Report  
+
+title: 
+	BBB Scam Tracker℠  | Find and Report a Scam | Better Business Bureau
+
+url: https://www.bbb.org/scamtracker/us/
+
+-------------------
+LINK             : 0
+SPAM             : 42
+QUALITY          : 134
+DATA SIZE        : 1430 words in html
+
+SPAM    Ratio %  : 0.02937062937062937
+QUALITY Ratio %  : 0.0937062937062937
+CONTENT   : -42
+GLOBAL Q  : Failed
+SECURITY  : No information about source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 0
+For this list: SPAM VALUE: 0
+For this list: QUALITY VALUE: 4
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 1
+For this list: GOOD_DOMAINS VALUE: 0
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 0
+For this list: ransomware VALUE: 0
+For this list: porn VALUE: 0
+For this list: phishing VALUE: 0
+For this list: crypto VALUE: 0
+For this list: ads VALUE: 0
+For this list: drugs VALUE: 0
+For this list: piracy VALUE: 0
+For this list: abuse VALUE: 0
+For this list: governement VALUE: 11
+For this list: quality VALUE: 4
+For this list: academic VALUE: 4
+For this list: news VALUE: 4
+For this list: university VALUE: 4
+For this list: technology VALUE: 4
+For this list: high_trust VALUE: 4
+
+Web-Report  
+
+title: Google Code
+url: http://code.google.com/
+
+-------------------
+LINK             : 5
+SPAM             : 20
+QUALITY          : 65
+DATA SIZE        : 678 words in html
+
+SPAM    Ratio %  : 0.029498525073746312
+QUALITY Ratio %  : 0.09587020648967552
+CONTENT   : 305
+GLOBAL Q  : Passed
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 0
+For this list: SPAM VALUE: 0
+For this list: QUALITY VALUE: 3
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 0
+For this list: GOOD_DOMAINS VALUE: 2
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 0
+For this list: ransomware VALUE: 0
+For this list: porn VALUE: 0
+For this list: phishing VALUE: 0
+For this list: crypto VALUE: 0
+For this list: ads VALUE: 0
+For this list: drugs VALUE: 0
+For this list: piracy VALUE: 0
+For this list: abuse VALUE: 0
+For this list: governement VALUE: 6
+For this list: quality VALUE: 3
+For this list: academic VALUE: 3
+For this list: news VALUE: 3
+For this list: university VALUE: 3
+For this list: technology VALUE: 3
+For this list: high_trust VALUE: 3
+
+Web-Report  
+
+title: Programmable Search Engine by Google
+url: https://cse.google.com/
+
+-------------------
+LINK             : 5
+SPAM             : 18
+QUALITY          : 65
+DATA SIZE        : 1192 words in html
+
+SPAM    Ratio %  : 0.015100671140939598
+QUALITY Ratio %  : 0.05453020134228188
+CONTENT   : 307
+GLOBAL Q  : Passed
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 0
+For this list: SPAM VALUE: 0
+For this list: QUALITY VALUE: 8
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 1
+For this list: GOOD_DOMAINS VALUE: 0
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 0
+For this list: ransomware VALUE: 0
+For this list: porn VALUE: 0
+For this list: phishing VALUE: 0
+For this list: crypto VALUE: 0
+For this list: ads VALUE: 0
+For this list: drugs VALUE: 0
+For this list: piracy VALUE: 0
+For this list: abuse VALUE: 0
+For this list: governement VALUE: 13
+For this list: quality VALUE: 8
+For this list: academic VALUE: 5
+For this list: news VALUE: 1
+For this list: university VALUE: 5
+For this list: technology VALUE: 5
+For this list: high_trust VALUE: 5
+
+Web-Report  
+
+title: Help for your Yahoo Account
+url: https://help.yahoo.com/
+
+-------------------
+LINK             : 0
+SPAM             : 48
+QUALITY          : 215
+DATA SIZE        : 4195 words in html
+
+SPAM    Ratio %  : 0.011442193087008343
+QUALITY Ratio %  : 0.05125148986889154
+CONTENT   : -48
+GLOBAL Q  : Failed
+SECURITY  : No information about source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 0
+For this list: SPAM VALUE: 0
+For this list: QUALITY VALUE: 13
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 3
+For this list: GOOD_DOMAINS VALUE: 0
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 0
+For this list: ransomware VALUE: 0
+For this list: porn VALUE: 0
+For this list: phishing VALUE: 0
+For this list: crypto VALUE: 0
+For this list: ads VALUE: 0
+For this list: drugs VALUE: 0
+For this list: piracy VALUE: 0
+For this list: abuse VALUE: 0
+For this list: governement VALUE: 26
+For this list: quality VALUE: 13
+For this list: academic VALUE: 6
+For this list: news VALUE: 2
+For this list: university VALUE: 6
+For this list: technology VALUE: 6
+For this list: high_trust VALUE: 7
+
+Web-Report  
+
+title: State of California - Department of Justice - Office of the Attorney General
+url: https://oag.ca.gov/
+
+-------------------
+LINK             : 10
+SPAM             : 41
+QUALITY          : 296
+DATA SIZE        : 4706 words in html
+
+SPAM    Ratio %  : 0.008712282192945177
+QUALITY Ratio %  : 0.06289842753931152
+CONTENT   : 2919
+GLOBAL Q  : Passed
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 0
+For this list: SPAM VALUE: 0
+For this list: QUALITY VALUE: 15
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 4
+For this list: GOOD_DOMAINS VALUE: 0
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 0
+For this list: ransomware VALUE: 0
+For this list: porn VALUE: 0
+For this list: phishing VALUE: 0
+For this list: crypto VALUE: 0
+For this list: ads VALUE: 0
+For this list: drugs VALUE: 0
+For this list: piracy VALUE: 0
+For this list: abuse VALUE: 0
+For this list: governement VALUE: 41
+For this list: quality VALUE: 15
+For this list: academic VALUE: 7
+For this list: news VALUE: 7
+For this list: university VALUE: 7
+For this list: technology VALUE: 7
+For this list: high_trust VALUE: 7
+
+Web-Report  
+
+title: Buy Sectigo SSL/TLS Certificates - Save 82% | Formerly Comodo CA
+url: https://sectigostore.com/
+
+-------------------
+LINK             : -5
+SPAM             : 81
+QUALITY          : 375
+DATA SIZE        : 7576 words in html
+
+SPAM    Ratio %  : 0.010691657866948258
+QUALITY Ratio %  : 0.049498416050686375
+CONTENT   : -1956
+GLOBAL Q  : Failed
+SECURITY  : Failed unsafe source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 0
+For this list: SPAM VALUE: 0
+For this list: QUALITY VALUE: 48
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 6
+For this list: GOOD_DOMAINS VALUE: 1
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 0
+For this list: ransomware VALUE: 0
+For this list: porn VALUE: 0
+For this list: phishing VALUE: 0
+For this list: crypto VALUE: 0
+For this list: ads VALUE: 0
+For this list: drugs VALUE: 0
+For this list: piracy VALUE: 0
+For this list: abuse VALUE: 0
+For this list: governement VALUE: 61
+For this list: quality VALUE: 48
+For this list: academic VALUE: 13
+For this list: news VALUE: 3
+For this list: university VALUE: 10
+For this list: technology VALUE: 10
+For this list: high_trust VALUE: 13
+
+Web-Report  
+
+title: Canada.ca
+url: https://www.canada.ca/
+
+-------------------
+LINK             : 0
+SPAM             : 6
+QUALITY          : 1
+DATA SIZE        : 119 words in html
+
+SPAM    Ratio %  : 0.05042016806722689
+QUALITY Ratio %  : 0.008403361344537815
+CONTENT   : -6
+GLOBAL Q  : Failed
+SECURITY  : No information about source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 0
+For this list: SPAM VALUE: 0
+For this list: QUALITY VALUE: 0
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 0
+For this list: GOOD_DOMAINS VALUE: 0
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 0
+For this list: ransomware VALUE: 0
+For this list: porn VALUE: 0
+For this list: phishing VALUE: 0
+For this list: crypto VALUE: 0
+For this list: ads VALUE: 0
+For this list: drugs VALUE: 0
+For this list: piracy VALUE: 0
+For this list: abuse VALUE: 0
+For this list: governement VALUE: 2
+For this list: quality VALUE: 0
+For this list: academic VALUE: 3
+For this list: news VALUE: 1
+For this list: university VALUE: 3
+For this list: technology VALUE: 3
+For this list: high_trust VALUE: 3
+
+Web-Report  
+
+title: CBC.ca - watch, listen, and discover with Canada's Public Broadcaster
+url: https://www.cbc.ca/
+
+-------------------
+LINK             : 5
+SPAM             : 37
+QUALITY          : 212
+DATA SIZE        : 1133 words in html
+
+SPAM    Ratio %  : 0.03265666372462489
+QUALITY Ratio %  : 0.18711385701676964
+CONTENT   : 1023
+GLOBAL Q  : Passed
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 0
+For this list: SPAM VALUE: 0
+For this list: QUALITY VALUE: 34
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 3
+For this list: GOOD_DOMAINS VALUE: 0
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 0
+For this list: ransomware VALUE: 0
+For this list: porn VALUE: 0
+For this list: phishing VALUE: 0
+For this list: crypto VALUE: 0
+For this list: ads VALUE: 0
+For this list: drugs VALUE: 0
+For this list: piracy VALUE: 0
+For this list: abuse VALUE: 0
+For this list: governement VALUE: 38
+For this list: quality VALUE: 34
+For this list: academic VALUE: 12
+For this list: news VALUE: 2
+For this list: university VALUE: 11
+For this list: technology VALUE: 11
+For this list: high_trust VALUE: 13
+
+Web-Report  
+
+title: Stock Markets, Business News, Financials, Earnings - CNBC
+url: https://www.cnbc.com/
+
+-------------------
+LINK             : 5
+SPAM             : 85
+QUALITY          : 523
+DATA SIZE        : 10726 words in html
+
+SPAM    Ratio %  : 0.007924669028528808
+QUALITY Ratio %  : 0.04876002237553608
+CONTENT   : 2530
+GLOBAL Q  : Passed
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 0
+For this list: SPAM VALUE: 0
+For this list: QUALITY VALUE: 51
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 3
+For this list: GOOD_DOMAINS VALUE: 0
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 0
+For this list: ransomware VALUE: 0
+For this list: porn VALUE: 0
+For this list: phishing VALUE: 0
+For this list: crypto VALUE: 0
+For this list: ads VALUE: 0
+For this list: drugs VALUE: 0
+For this list: piracy VALUE: 0
+For this list: abuse VALUE: 0
+For this list: governement VALUE: 69
+For this list: quality VALUE: 51
+For this list: academic VALUE: 12
+For this list: news VALUE: 3
+For this list: university VALUE: 11
+For this list: technology VALUE: 11
+For this list: high_trust VALUE: 12
+
+Web-Report  
+
+title: Consumer Information | Federal Trade Commission
+url: https://www.consumer.ftc.gov/
+
+-------------------
+LINK             : -5
+SPAM             : 26
+QUALITY          : 106
+DATA SIZE        : 919 words in html
+
+SPAM    Ratio %  : 0.028291621327529923
+QUALITY Ratio %  : 0.11534276387377584
+CONTENT   : -556
+GLOBAL Q  : Failed
+SECURITY  : Failed unsafe source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 0
+For this list: SPAM VALUE: 0
+For this list: QUALITY VALUE: 1
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 0
+For this list: GOOD_DOMAINS VALUE: 0
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 0
+For this list: ransomware VALUE: 0
+For this list: porn VALUE: 0
+For this list: phishing VALUE: 0
+For this list: crypto VALUE: 0
+For this list: ads VALUE: 0
+For this list: drugs VALUE: 0
+For this list: piracy VALUE: 0
+For this list: abuse VALUE: 0
+For this list: governement VALUE: 8
+For this list: quality VALUE: 1
+For this list: academic VALUE: 4
+For this list: news VALUE: 3
+For this list: university VALUE: 4
+For this list: technology VALUE: 4
+For this list: high_trust VALUE: 3
+
+Web-Report  
+
+title: DocuSign | #1 in Electronic Signature and Agreement Cloud
+url: https://www.docusign.com/
+
+-------------------
+LINK             : 5
+SPAM             : 48
+QUALITY          : 161
+DATA SIZE        : 3881 words in html
+
+SPAM    Ratio %  : 0.012367946405565575
+QUALITY Ratio %  : 0.04148415356866787
+CONTENT   : 757
+GLOBAL Q  : Passed
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 0
+For this list: SPAM VALUE: 0
+For this list: QUALITY VALUE: 9
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 3
+For this list: GOOD_DOMAINS VALUE: 0
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 0
+For this list: ransomware VALUE: 0
+For this list: porn VALUE: 0
+For this list: phishing VALUE: 0
+For this list: crypto VALUE: 0
+For this list: ads VALUE: 0
+For this list: drugs VALUE: 0
+For this list: piracy VALUE: 0
+For this list: abuse VALUE: 0
+For this list: governement VALUE: 31
+For this list: quality VALUE: 9
+For this list: academic VALUE: 9
+For this list: news VALUE: 3
+For this list: university VALUE: 8
+For this list: technology VALUE: 8
+For this list: high_trust VALUE: 11
+
+Web-Report  
+
+title: Google
+url: https://www.google.com/
+
+-------------------
+LINK             : 0
+SPAM             : 19
+QUALITY          : 124
+DATA SIZE        : 1553 words in html
+
+SPAM    Ratio %  : 0.012234385061171926
+QUALITY Ratio %  : 0.0798454603992273
+CONTENT   : -19
+GLOBAL Q  : Failed
+SECURITY  : No information about source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 0
+For this list: SPAM VALUE: 0
+For this list: QUALITY VALUE: 2
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 2
+For this list: GOOD_DOMAINS VALUE: 0
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 0
+For this list: ransomware VALUE: 0
+For this list: porn VALUE: 0
+For this list: phishing VALUE: 0
+For this list: crypto VALUE: 0
+For this list: ads VALUE: 0
+For this list: drugs VALUE: 0
+For this list: piracy VALUE: 0
+For this list: abuse VALUE: 0
+For this list: governement VALUE: 4
+For this list: quality VALUE: 2
+For this list: academic VALUE: 5
+For this list: news VALUE: 1
+For this list: university VALUE: 4
+For this list: technology VALUE: 4
+For this list: high_trust VALUE: 5
+
+Web-Report  
+
+title: Investopedia: Sharper insight, better investing.
+url: https://www.investopedia.com/
+
+-------------------
+LINK             : 5
+SPAM             : 32
+QUALITY          : 81
+DATA SIZE        : 1289 words in html
+
+SPAM    Ratio %  : 0.02482544608223429
+QUALITY Ratio %  : 0.06283941039565555
+CONTENT   : 373
+GLOBAL Q  : Passed
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 0
+For this list: SPAM VALUE: 0
+For this list: QUALITY VALUE: 9
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 1
+For this list: GOOD_DOMAINS VALUE: 0
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 1
+For this list: ransomware VALUE: 1
+For this list: porn VALUE: 1
+For this list: phishing VALUE: 1
+For this list: crypto VALUE: 1
+For this list: ads VALUE: 1
+For this list: drugs VALUE: 1
+For this list: piracy VALUE: 1
+For this list: abuse VALUE: 1
+For this list: governement VALUE: 12
+For this list: quality VALUE: 9
+For this list: academic VALUE: 1
+For this list: news VALUE: 1
+For this list: university VALUE: 1
+For this list: technology VALUE: 1
+For this list: high_trust VALUE: 3
+
+Web-Report  
+
+title: wikiHow: How-to instructions you can trust.
+url: https://www.wikihow.com/
+
+-------------------
+LINK             : -5
+SPAM             : 57
+QUALITY          : 380
+DATA SIZE        : 4605 words in html
+
+SPAM    Ratio %  : 0.012377850162866449
+QUALITY Ratio %  : 0.08251900108577633
+CONTENT   : -1957
+GLOBAL Q  : Failed
+SECURITY  : Failed unsafe source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 0
+For this list: SPAM VALUE: 0
+For this list: QUALITY VALUE: 22
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 3
+For this list: GOOD_DOMAINS VALUE: 0
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 0
+For this list: ransomware VALUE: 0
+For this list: porn VALUE: 0
+For this list: phishing VALUE: 0
+For this list: crypto VALUE: 0
+For this list: ads VALUE: 0
+For this list: drugs VALUE: 0
+For this list: piracy VALUE: 0
+For this list: abuse VALUE: 0
+For this list: governement VALUE: 30
+For this list: quality VALUE: 22
+For this list: academic VALUE: 10
+For this list: news VALUE: 2
+For this list: university VALUE: 10
+For this list: technology VALUE: 10
+For this list: high_trust VALUE: 11
+
+Web-Report  
+
+title: News | Open Source Initiative
+url: http://opensource.org/
+
+-------------------
+LINK             : -5
+SPAM             : 34
+QUALITY          : 149
+DATA SIZE        : 1039 words in html
+
+SPAM    Ratio %  : 0.032723772858517804
+QUALITY Ratio %  : 0.14340712223291627
+CONTENT   : -779
+GLOBAL Q  : Failed
+SECURITY  : Failed unsafe source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 0
+For this list: SPAM VALUE: 0
+For this list: QUALITY VALUE: 11
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 2
+For this list: GOOD_DOMAINS VALUE: 0
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 0
+For this list: ransomware VALUE: 0
+For this list: porn VALUE: 0
+For this list: phishing VALUE: 0
+For this list: crypto VALUE: 0
+For this list: ads VALUE: 0
+For this list: drugs VALUE: 0
+For this list: piracy VALUE: 0
+For this list: abuse VALUE: 0
+For this list: governement VALUE: 20
+For this list: quality VALUE: 11
+For this list: academic VALUE: 5
+For this list: news VALUE: 5
+For this list: university VALUE: 5
+For this list: technology VALUE: 5
+For this list: high_trust VALUE: 5
+
+Web-Report  
+
+title: Bitcoin - Open source P2P money
+url: https://bitcoin.org/
+
+-------------------
+LINK             : 0
+SPAM             : 28
+QUALITY          : 93
+DATA SIZE        : 891 words in html
+
+SPAM    Ratio %  : 0.031425364758698095
+QUALITY Ratio %  : 0.10437710437710437
+CONTENT   : -28
+GLOBAL Q  : Failed
+SECURITY  : No information about source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 0
+For this list: SPAM VALUE: 0
+For this list: QUALITY VALUE: 8
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 0
+For this list: GOOD_DOMAINS VALUE: 1
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 0
+For this list: ransomware VALUE: 0
+For this list: porn VALUE: 0
+For this list: phishing VALUE: 0
+For this list: crypto VALUE: 0
+For this list: ads VALUE: 0
+For this list: drugs VALUE: 0
+For this list: piracy VALUE: 0
+For this list: abuse VALUE: 0
+For this list: governement VALUE: 10
+For this list: quality VALUE: 8
+For this list: academic VALUE: 4
+For this list: news VALUE: 1
+For this list: university VALUE: 3
+For this list: technology VALUE: 3
+For this list: high_trust VALUE: 4
+
+Web-Report  
+
+title: Getting Started — Bitcoin
+url: https://developer.bitcoin.org/
+
+-------------------
+LINK             : 0
+SPAM             : 41
+QUALITY          : 205
+DATA SIZE        : 3567 words in html
+
+SPAM    Ratio %  : 0.011494252873563218
+QUALITY Ratio %  : 0.05747126436781609
+CONTENT   : -41
+GLOBAL Q  : Failed
+SECURITY  : No information about source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 0
+For this list: SPAM VALUE: 0
+For this list: QUALITY VALUE: 19
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 1
+For this list: GOOD_DOMAINS VALUE: 1
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 0
+For this list: ransomware VALUE: 0
+For this list: porn VALUE: 0
+For this list: phishing VALUE: 0
+For this list: crypto VALUE: 0
+For this list: ads VALUE: 0
+For this list: drugs VALUE: 0
+For this list: piracy VALUE: 0
+For this list: abuse VALUE: 0
+For this list: governement VALUE: 20
+For this list: quality VALUE: 19
+For this list: academic VALUE: 3
+For this list: news VALUE: 3
+For this list: university VALUE: 3
+For this list: technology VALUE: 3
+For this list: high_trust VALUE: 3
+
+Web-Report  
+
+title: Google Play
+url: https://play.google.com/
+
+-------------------
+LINK             : 0
+SPAM             : 101
+QUALITY          : 1007
+DATA SIZE        : 17070 words in html
+
+SPAM    Ratio %  : 0.005916813122437024
+QUALITY Ratio %  : 0.05899238429994142
+CONTENT   : -101
+GLOBAL Q  : Failed
+SECURITY  : No information about source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 0
+For this list: SPAM VALUE: 0
+For this list: QUALITY VALUE: 181
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 4
+For this list: GOOD_DOMAINS VALUE: 0
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 1
+For this list: ransomware VALUE: 1
+For this list: porn VALUE: 1
+For this list: phishing VALUE: 1
+For this list: crypto VALUE: 1
+For this list: ads VALUE: 1
+For this list: drugs VALUE: 1
+For this list: piracy VALUE: 1
+For this list: abuse VALUE: 1
+For this list: governement VALUE: 138
+For this list: quality VALUE: 181
+For this list: academic VALUE: 23
+For this list: news VALUE: 1
+For this list: university VALUE: 22
+For this list: technology VALUE: 22
+For this list: high_trust VALUE: 28
+
+Web-Report  
+
+title: Stack Overflow - Where Developers Learn, Share, & Build Careers
+url: https://stackoverflow.com/
+
+-------------------
+LINK             : 0
+SPAM             : 53
+QUALITY          : 228
+DATA SIZE        : 4636 words in html
+
+SPAM    Ratio %  : 0.011432269197584125
+QUALITY Ratio %  : 0.04918032786885246
+CONTENT   : -53
+GLOBAL Q  : Failed
+SECURITY  : No information about source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 0
+For this list: SPAM VALUE: 0
+For this list: QUALITY VALUE: 32
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 3
+For this list: GOOD_DOMAINS VALUE: 0
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 0
+For this list: ransomware VALUE: 0
+For this list: porn VALUE: 0
+For this list: phishing VALUE: 0
+For this list: crypto VALUE: 0
+For this list: ads VALUE: 0
+For this list: drugs VALUE: 0
+For this list: piracy VALUE: 0
+For this list: abuse VALUE: 0
+For this list: governement VALUE: 46
+For this list: quality VALUE: 32
+For this list: academic VALUE: 17
+For this list: news VALUE: 4
+For this list: university VALUE: 15
+For this list: technology VALUE: 15
+For this list: high_trust VALUE: 16
+
+Web-Report  
+
+title: Facebook - Log In or Sign Up
+url: https://www.facebook.com/
+
+-------------------
+LINK             : 0
+SPAM             : 11
+QUALITY          : 17
+DATA SIZE        : 86 words in html
+
+SPAM    Ratio %  : 0.12790697674418605
+QUALITY Ratio %  : 0.19767441860465115
+CONTENT   : -11
+GLOBAL Q  : Failed
+SECURITY  : No information about source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 0
+For this list: SPAM VALUE: 0
+For this list: QUALITY VALUE: 0
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 0
+For this list: GOOD_DOMAINS VALUE: 0
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 0
+For this list: ransomware VALUE: 0
+For this list: porn VALUE: 0
+For this list: phishing VALUE: 0
+For this list: crypto VALUE: 0
+For this list: ads VALUE: 0
+For this list: drugs VALUE: 0
+For this list: piracy VALUE: 0
+For this list: abuse VALUE: 0
+For this list: governement VALUE: 0
+For this list: quality VALUE: 0
+For this list: academic VALUE: 1
+For this list: news VALUE: 2
+For this list: university VALUE: 1
+For this list: technology VALUE: 1
+For this list: high_trust VALUE: 1
+
+Web-Report  
+
+title: 
+Instagram
+
+url: https://www.instagram.com/
+
+-------------------
+LINK             : 0
+SPAM             : 0
+QUALITY          : 1
+DATA SIZE        : 20 words in html
+
+SPAM    Ratio %  : 0.0
+QUALITY Ratio %  : 0.05
+CONTENT   : 0
+GLOBAL Q  : uncertain
+SECURITY  : No information about source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 0
+For this list: SPAM VALUE: 0
+For this list: QUALITY VALUE: 0
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 0
+For this list: GOOD_DOMAINS VALUE: 0
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 0
+For this list: ransomware VALUE: 0
+For this list: porn VALUE: 0
+For this list: phishing VALUE: 0
+For this list: crypto VALUE: 0
+For this list: ads VALUE: 0
+For this list: drugs VALUE: 0
+For this list: piracy VALUE: 0
+For this list: abuse VALUE: 0
+For this list: governement VALUE: 0
+For this list: quality VALUE: 0
+For this list: academic VALUE: 0
+For this list: news VALUE: 0
+For this list: university VALUE: 0
+For this list: technology VALUE: 0
+For this list: high_trust VALUE: 0
+
+Web-Report  
+
+title: LinkedIn: Log In or Sign Up
+url: https://www.linkedin.com/
+
+-------------------
+LINK             : 0
+SPAM             : 31
+QUALITY          : 114
+DATA SIZE        : 7972 words in html
+
+SPAM    Ratio %  : 0.0038886101354741595
+QUALITY Ratio %  : 0.014300050175614651
+CONTENT   : -31
+GLOBAL Q  : Failed
+SECURITY  : No information about source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 0
+For this list: SPAM VALUE: 0
+For this list: QUALITY VALUE: 7
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 2
+For this list: GOOD_DOMAINS VALUE: 0
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 0
+For this list: ransomware VALUE: 0
+For this list: porn VALUE: 0
+For this list: phishing VALUE: 0
+For this list: crypto VALUE: 0
+For this list: ads VALUE: 0
+For this list: drugs VALUE: 0
+For this list: piracy VALUE: 0
+For this list: abuse VALUE: 0
+For this list: governement VALUE: 10
+For this list: quality VALUE: 7
+For this list: academic VALUE: 3
+For this list: news VALUE: 3
+For this list: university VALUE: 2
+For this list: technology VALUE: 2
+For this list: high_trust VALUE: 3
+
+Web-Report  
+
+title: Programiz: Learn to Code for Free
+url: https://www.programiz.com/
+
+-------------------
+LINK             : -5
+SPAM             : 28
+QUALITY          : 76
+DATA SIZE        : 2628 words in html
+
+SPAM    Ratio %  : 0.0106544901065449
+QUALITY Ratio %  : 0.0289193302891933
+CONTENT   : -408
+GLOBAL Q  : Failed
+SECURITY  : Failed unsafe source
+
+
+----------------------------------
+
+
+For this list: SPAM VALUE: 0
+For this list: SPAM VALUE: 0
+For this list: QUALITY VALUE: 10
+For this list: DOMAIN_COMPROMISED VALUE: 0
+For this list: BAD_DOMAINS VALUE: 2
+For this list: GOOD_DOMAINS VALUE: 1
+For this list: ACCEPTABLE_DOMAINS VALUE: 0
+For this list: scam VALUE: 0
+For this list: ransomware VALUE: 0
+For this list: porn VALUE: 0
+For this list: phishing VALUE: 0
+For this list: crypto VALUE: 0
+For this list: ads VALUE: 0
+For this list: drugs VALUE: 0
+For this list: piracy VALUE: 0
+For this list: abuse VALUE: 0
+For this list: governement VALUE: 11
+For this list: quality VALUE: 10
+For this list: academic VALUE: 8
+For this list: news VALUE: 2
+For this list: university VALUE: 8
+For this list: technology VALUE: 8
+For this list: high_trust VALUE: 8
