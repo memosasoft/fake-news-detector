@@ -1,0 +1,1677 @@
+
+Web-Report  
+
+title: SSL Certificate Types | Types of SSL Certificates by Sectigo
+url: https://sectigostore.com/ssl-types
+
+-------------------
+LINK             : 0
+SPAM             : 0
+QUALITY          : 0
+DATA SIZE        : 2840 words in html
+
+SPAM    Ratio %  : 0.0
+QUALITY Ratio %  : 0.0
+CONTENT   : 0
+GLOBAL Q  : uncertain
+SECURITY  : No information about source
+
+
+----------------------------------
+
+
+For this list: twitter.domains V00ALUE: 0
+For this list: top-500.domains V00ALUE: 0
+For this list: ads.domains V00ALUE: 0
+For this list: crypto.domains V00ALUE: 0
+For this list: scam.domains V00ALUE: 0
+For this list: top-20000.domains V00ALUE: 0
+For this list: malware.domains V00ALUE: 1
+For this list: piracy.domains V00ALUE: 0
+For this list: spam.filter V00ALUE: 54
+For this list: good_domains V00ALUE: 1
+For this list: phishing.domains V00ALUE: 1
+For this list: facebook.domains V00ALUE: 0
+For this list: drugs.domains V00ALUE: 0
+For this list: news.domains V00ALUE: 3
+For this list: top-10000.domains V00ALUE: 0
+For this list: porn.domains V00ALUE: 0
+For this list: youtube.domains V00ALUE: 1
+For this list: python.keywords V00ALUE: 64
+For this list: torrent.domains V00ALUE: 0
+For this list: compromised_domains V00ALUE: 0
+For this list: vaping.domains V00ALUE: 0
+For this list: top-5000.domains V00ALUE: 0
+For this list: top_domains_list_acceptable V00ALUE: 0
+For this list: stoplist.filter V00ALUE: 428
+For this list: fraud.domains V00ALUE: 0
+For this list: top-1000000.domains V00ALUE: 10
+For this list: bad_domains V00ALUE: 3
+For this list: abuse.domains V00ALUE: 0
+For this list: ransomware.domains V00ALUE: 0
+For this list: smart-tv.domains V00ALUE: 0
+For this list: whatsapp.domains V00ALUE: 0
+For this list: basic.domains V00ALUE: 0
+For this list: gambling.domains V00ALUE: 0
+
+Web-Report  
+
+title: Sectigo Website Security Products | Malware & PCI Scanning Solutions
+url: https://sectigostore.com/website-security
+
+-------------------
+LINK             : 0
+SPAM             : 0
+QUALITY          : 0
+DATA SIZE        : 1691 words in html
+
+SPAM    Ratio %  : 0.0
+QUALITY Ratio %  : 0.0
+CONTENT   : 0
+GLOBAL Q  : uncertain
+SECURITY  : No information about source
+
+
+----------------------------------
+
+
+For this list: twitter.domains V00ALUE: 0
+For this list: top-500.domains V00ALUE: 0
+For this list: ads.domains V00ALUE: 0
+For this list: crypto.domains V00ALUE: 0
+For this list: scam.domains V00ALUE: 0
+For this list: top-20000.domains V00ALUE: 1
+For this list: malware.domains V00ALUE: 1
+For this list: piracy.domains V00ALUE: 0
+For this list: spam.filter V00ALUE: 58
+For this list: good_domains V00ALUE: 4
+For this list: phishing.domains V00ALUE: 1
+For this list: facebook.domains V00ALUE: 0
+For this list: drugs.domains V00ALUE: 0
+For this list: news.domains V00ALUE: 3
+For this list: top-10000.domains V00ALUE: 1
+For this list: porn.domains V00ALUE: 0
+For this list: youtube.domains V00ALUE: 1
+For this list: python.keywords V00ALUE: 46
+For this list: torrent.domains V00ALUE: 0
+For this list: compromised_domains V00ALUE: 0
+For this list: vaping.domains V00ALUE: 0
+For this list: top-5000.domains V00ALUE: 0
+For this list: top_domains_list_acceptable V00ALUE: 0
+For this list: stoplist.filter V00ALUE: 447
+For this list: fraud.domains V00ALUE: 0
+For this list: top-1000000.domains V00ALUE: 8
+For this list: bad_domains V00ALUE: 6
+For this list: abuse.domains V00ALUE: 0
+For this list: ransomware.domains V00ALUE: 0
+For this list: smart-tv.domains V00ALUE: 0
+For this list: whatsapp.domains V00ALUE: 0
+For this list: basic.domains V00ALUE: 0
+For this list: gambling.domains V00ALUE: 0
+
+Web-Report  
+
+title: Google Transparency Report
+url: https://transparencyreport.google.com/safe-browsing/search
+
+-------------------
+LINK             : 2
+SPAM             : 0
+QUALITY          : 0
+DATA SIZE        : 4 words in html
+
+SPAM    Ratio %  : 0.0
+QUALITY Ratio %  : 0.0
+CONTENT   : 0
+GLOBAL Q  : uncertain
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: twitter.domains V00ALUE: 0
+For this list: top-500.domains V00ALUE: 0
+For this list: ads.domains V00ALUE: 0
+For this list: crypto.domains V00ALUE: 0
+For this list: scam.domains V00ALUE: 0
+For this list: top-20000.domains V00ALUE: 1
+For this list: malware.domains V00ALUE: 1
+For this list: piracy.domains V00ALUE: 0
+For this list: spam.filter V00ALUE: 1
+For this list: good_domains V00ALUE: 1
+For this list: phishing.domains V00ALUE: 1
+For this list: facebook.domains V00ALUE: 0
+For this list: drugs.domains V00ALUE: 0
+For this list: news.domains V00ALUE: 1
+For this list: top-10000.domains V00ALUE: 1
+For this list: porn.domains V00ALUE: 0
+For this list: youtube.domains V00ALUE: 0
+For this list: python.keywords V00ALUE: 1
+For this list: torrent.domains V00ALUE: 0
+For this list: compromised_domains V00ALUE: 0
+For this list: vaping.domains V00ALUE: 0
+For this list: top-5000.domains V00ALUE: 1
+For this list: top_domains_list_acceptable V00ALUE: 1
+For this list: stoplist.filter V00ALUE: 88
+For this list: fraud.domains V00ALUE: 0
+For this list: top-1000000.domains V00ALUE: 2
+For this list: bad_domains V00ALUE: 0
+For this list: abuse.domains V00ALUE: 0
+For this list: ransomware.domains V00ALUE: 0
+For this list: smart-tv.domains V00ALUE: 0
+For this list: whatsapp.domains V00ALUE: 0
+For this list: basic.domains V00ALUE: 0
+For this list: gambling.domains V00ALUE: 0
+
+Web-Report  
+
+title: 
+	BBB Scam Tracker℠  | Find and Report a Scam | Better Business Bureau
+
+url: https://www.bbb.org/scamtracker/us/
+
+-------------------
+LINK             : 1
+SPAM             : 0
+QUALITY          : 0
+DATA SIZE        : 928 words in html
+
+SPAM    Ratio %  : 0.0
+QUALITY Ratio %  : 0.0
+CONTENT   : 0
+GLOBAL Q  : uncertain
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: twitter.domains V00ALUE: 0
+For this list: top-500.domains V00ALUE: 0
+For this list: ads.domains V00ALUE: 0
+For this list: crypto.domains V00ALUE: 0
+For this list: scam.domains V00ALUE: 0
+For this list: top-20000.domains V00ALUE: 3
+For this list: malware.domains V00ALUE: 3
+For this list: piracy.domains V00ALUE: 0
+For this list: spam.filter V00ALUE: 49
+For this list: good_domains V00ALUE: 3
+For this list: phishing.domains V00ALUE: 1
+For this list: facebook.domains V00ALUE: 0
+For this list: drugs.domains V00ALUE: 0
+For this list: news.domains V00ALUE: 5
+For this list: top-10000.domains V00ALUE: 3
+For this list: porn.domains V00ALUE: 0
+For this list: youtube.domains V00ALUE: 0
+For this list: python.keywords V00ALUE: 27
+For this list: torrent.domains V00ALUE: 0
+For this list: compromised_domains V00ALUE: 0
+For this list: vaping.domains V00ALUE: 0
+For this list: top-5000.domains V00ALUE: 0
+For this list: top_domains_list_acceptable V00ALUE: 0
+For this list: stoplist.filter V00ALUE: 380
+For this list: fraud.domains V00ALUE: 0
+For this list: top-1000000.domains V00ALUE: 11
+For this list: bad_domains V00ALUE: 3
+For this list: abuse.domains V00ALUE: 2
+For this list: ransomware.domains V00ALUE: 0
+For this list: smart-tv.domains V00ALUE: 0
+For this list: whatsapp.domains V00ALUE: 0
+For this list: basic.domains V00ALUE: 0
+For this list: gambling.domains V00ALUE: 0
+
+Web-Report  
+
+title: Google Code
+url: http://code.google.com/
+
+-------------------
+LINK             : 3
+SPAM             : 0
+QUALITY          : 0
+DATA SIZE        : 152 words in html
+
+SPAM    Ratio %  : 0.0
+QUALITY Ratio %  : 0.0
+CONTENT   : 0
+GLOBAL Q  : uncertain
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: twitter.domains V00ALUE: 0
+For this list: top-500.domains V00ALUE: 3
+For this list: ads.domains V00ALUE: 0
+For this list: crypto.domains V00ALUE: 0
+For this list: scam.domains V00ALUE: 0
+For this list: top-20000.domains V00ALUE: 3
+For this list: malware.domains V00ALUE: 1
+For this list: piracy.domains V00ALUE: 0
+For this list: spam.filter V00ALUE: 18
+For this list: good_domains V00ALUE: 9
+For this list: phishing.domains V00ALUE: 1
+For this list: facebook.domains V00ALUE: 0
+For this list: drugs.domains V00ALUE: 0
+For this list: news.domains V00ALUE: 4
+For this list: top-10000.domains V00ALUE: 2
+For this list: porn.domains V00ALUE: 0
+For this list: youtube.domains V00ALUE: 0
+For this list: python.keywords V00ALUE: 26
+For this list: torrent.domains V00ALUE: 0
+For this list: compromised_domains V00ALUE: 0
+For this list: vaping.domains V00ALUE: 0
+For this list: top-5000.domains V00ALUE: 2
+For this list: top_domains_list_acceptable V00ALUE: 2
+For this list: stoplist.filter V00ALUE: 238
+For this list: fraud.domains V00ALUE: 0
+For this list: top-1000000.domains V00ALUE: 7
+For this list: bad_domains V00ALUE: 6
+For this list: abuse.domains V00ALUE: 0
+For this list: ransomware.domains V00ALUE: 0
+For this list: smart-tv.domains V00ALUE: 0
+For this list: whatsapp.domains V00ALUE: 0
+For this list: basic.domains V00ALUE: 0
+For this list: gambling.domains V00ALUE: 0
+
+Web-Report  
+
+title: Programmable Search Engine by Google
+url: https://cse.google.com/
+
+-------------------
+LINK             : 3
+SPAM             : 0
+QUALITY          : 0
+DATA SIZE        : 406 words in html
+
+SPAM    Ratio %  : 0.0
+QUALITY Ratio %  : 0.0
+CONTENT   : 0
+GLOBAL Q  : uncertain
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: twitter.domains V00ALUE: 0
+For this list: top-500.domains V00ALUE: 0
+For this list: ads.domains V00ALUE: 0
+For this list: crypto.domains V00ALUE: 0
+For this list: scam.domains V00ALUE: 0
+For this list: top-20000.domains V00ALUE: 3
+For this list: malware.domains V00ALUE: 1
+For this list: piracy.domains V00ALUE: 0
+For this list: spam.filter V00ALUE: 19
+For this list: good_domains V00ALUE: 3
+For this list: phishing.domains V00ALUE: 1
+For this list: facebook.domains V00ALUE: 0
+For this list: drugs.domains V00ALUE: 0
+For this list: news.domains V00ALUE: 1
+For this list: top-10000.domains V00ALUE: 3
+For this list: porn.domains V00ALUE: 0
+For this list: youtube.domains V00ALUE: 0
+For this list: python.keywords V00ALUE: 7
+For this list: torrent.domains V00ALUE: 0
+For this list: compromised_domains V00ALUE: 0
+For this list: vaping.domains V00ALUE: 0
+For this list: top-5000.domains V00ALUE: 2
+For this list: top_domains_list_acceptable V00ALUE: 1
+For this list: stoplist.filter V00ALUE: 277
+For this list: fraud.domains V00ALUE: 0
+For this list: top-1000000.domains V00ALUE: 6
+For this list: bad_domains V00ALUE: 1
+For this list: abuse.domains V00ALUE: 0
+For this list: ransomware.domains V00ALUE: 0
+For this list: smart-tv.domains V00ALUE: 0
+For this list: whatsapp.domains V00ALUE: 0
+For this list: basic.domains V00ALUE: 0
+For this list: gambling.domains V00ALUE: 0
+
+Web-Report  
+
+title: Help for your Yahoo Account
+url: https://help.yahoo.com/
+
+-------------------
+LINK             : 3
+SPAM             : 0
+QUALITY          : 0
+DATA SIZE        : 2539 words in html
+
+SPAM    Ratio %  : 0.0
+QUALITY Ratio %  : 0.0
+CONTENT   : 0
+GLOBAL Q  : uncertain
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: twitter.domains V00ALUE: 0
+For this list: top-500.domains V00ALUE: 2
+For this list: ads.domains V00ALUE: 0
+For this list: crypto.domains V00ALUE: 0
+For this list: scam.domains V00ALUE: 0
+For this list: top-20000.domains V00ALUE: 7
+For this list: malware.domains V00ALUE: 1
+For this list: piracy.domains V00ALUE: 0
+For this list: spam.filter V00ALUE: 63
+For this list: good_domains V00ALUE: 8
+For this list: phishing.domains V00ALUE: 1
+For this list: facebook.domains V00ALUE: 0
+For this list: drugs.domains V00ALUE: 0
+For this list: news.domains V00ALUE: 7
+For this list: top-10000.domains V00ALUE: 5
+For this list: porn.domains V00ALUE: 0
+For this list: youtube.domains V00ALUE: 3
+For this list: python.keywords V00ALUE: 93
+For this list: torrent.domains V00ALUE: 0
+For this list: compromised_domains V00ALUE: 0
+For this list: vaping.domains V00ALUE: 0
+For this list: top-5000.domains V00ALUE: 4
+For this list: top_domains_list_acceptable V00ALUE: 1
+For this list: stoplist.filter V00ALUE: 561
+For this list: fraud.domains V00ALUE: 0
+For this list: top-1000000.domains V00ALUE: 18
+For this list: bad_domains V00ALUE: 6
+For this list: abuse.domains V00ALUE: 0
+For this list: ransomware.domains V00ALUE: 0
+For this list: smart-tv.domains V00ALUE: 0
+For this list: whatsapp.domains V00ALUE: 0
+For this list: basic.domains V00ALUE: 0
+For this list: gambling.domains V00ALUE: 0
+
+Web-Report  
+
+title: State of California - Department of Justice - Office of the Attorney General
+url: https://oag.ca.gov/
+
+-------------------
+LINK             : 3
+SPAM             : 0
+QUALITY          : 0
+DATA SIZE        : 3064 words in html
+
+SPAM    Ratio %  : 0.0
+QUALITY Ratio %  : 0.0
+CONTENT   : 0
+GLOBAL Q  : uncertain
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: twitter.domains V00ALUE: 0
+For this list: top-500.domains V00ALUE: 2
+For this list: ads.domains V00ALUE: 0
+For this list: crypto.domains V00ALUE: 0
+For this list: scam.domains V00ALUE: 0
+For this list: top-20000.domains V00ALUE: 3
+For this list: malware.domains V00ALUE: 1
+For this list: piracy.domains V00ALUE: 0
+For this list: spam.filter V00ALUE: 71
+For this list: good_domains V00ALUE: 7
+For this list: phishing.domains V00ALUE: 1
+For this list: facebook.domains V00ALUE: 0
+For this list: drugs.domains V00ALUE: 0
+For this list: news.domains V00ALUE: 11
+For this list: top-10000.domains V00ALUE: 3
+For this list: porn.domains V00ALUE: 0
+For this list: youtube.domains V00ALUE: 1
+For this list: python.keywords V00ALUE: 78
+For this list: torrent.domains V00ALUE: 0
+For this list: compromised_domains V00ALUE: 0
+For this list: vaping.domains V00ALUE: 0
+For this list: top-5000.domains V00ALUE: 0
+For this list: top_domains_list_acceptable V00ALUE: 2
+For this list: stoplist.filter V00ALUE: 550
+For this list: fraud.domains V00ALUE: 0
+For this list: top-1000000.domains V00ALUE: 13
+For this list: bad_domains V00ALUE: 6
+For this list: abuse.domains V00ALUE: 0
+For this list: ransomware.domains V00ALUE: 0
+For this list: smart-tv.domains V00ALUE: 0
+For this list: whatsapp.domains V00ALUE: 0
+For this list: basic.domains V00ALUE: 0
+For this list: gambling.domains V00ALUE: 0
+
+Web-Report  
+
+title: Buy Sectigo SSL/TLS Certificates - Save 82% | Formerly Comodo CA
+url: https://sectigostore.com/
+
+-------------------
+LINK             : 0
+SPAM             : 0
+QUALITY          : 0
+DATA SIZE        : 5934 words in html
+
+SPAM    Ratio %  : 0.0
+QUALITY Ratio %  : 0.0
+CONTENT   : 0
+GLOBAL Q  : uncertain
+SECURITY  : No information about source
+
+
+----------------------------------
+
+
+For this list: twitter.domains V00ALUE: 0
+For this list: top-500.domains V00ALUE: 0
+For this list: ads.domains V00ALUE: 0
+For this list: crypto.domains V00ALUE: 0
+For this list: scam.domains V00ALUE: 0
+For this list: top-20000.domains V00ALUE: 1
+For this list: malware.domains V00ALUE: 1
+For this list: piracy.domains V00ALUE: 0
+For this list: spam.filter V00ALUE: 116
+For this list: good_domains V00ALUE: 5
+For this list: phishing.domains V00ALUE: 1
+For this list: facebook.domains V00ALUE: 0
+For this list: drugs.domains V00ALUE: 0
+For this list: news.domains V00ALUE: 3
+For this list: top-10000.domains V00ALUE: 1
+For this list: porn.domains V00ALUE: 0
+For this list: youtube.domains V00ALUE: 1
+For this list: python.keywords V00ALUE: 97
+For this list: torrent.domains V00ALUE: 0
+For this list: compromised_domains V00ALUE: 0
+For this list: vaping.domains V00ALUE: 0
+For this list: top-5000.domains V00ALUE: 0
+For this list: top_domains_list_acceptable V00ALUE: 0
+For this list: stoplist.filter V00ALUE: 678
+For this list: fraud.domains V00ALUE: 0
+For this list: top-1000000.domains V00ALUE: 15
+For this list: bad_domains V00ALUE: 8
+For this list: abuse.domains V00ALUE: 0
+For this list: ransomware.domains V00ALUE: 0
+For this list: smart-tv.domains V00ALUE: 0
+For this list: whatsapp.domains V00ALUE: 0
+For this list: basic.domains V00ALUE: 0
+For this list: gambling.domains V00ALUE: 0
+
+Web-Report  
+
+title: Canada.ca
+url: https://www.canada.ca/
+
+-------------------
+LINK             : 1
+SPAM             : 0
+QUALITY          : 0
+DATA SIZE        : 61 words in html
+
+SPAM    Ratio %  : 0.0
+QUALITY Ratio %  : 0.0
+CONTENT   : 0
+GLOBAL Q  : uncertain
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: twitter.domains V00ALUE: 0
+For this list: top-500.domains V00ALUE: 1
+For this list: ads.domains V00ALUE: 0
+For this list: crypto.domains V00ALUE: 0
+For this list: scam.domains V00ALUE: 0
+For this list: top-20000.domains V00ALUE: 0
+For this list: malware.domains V00ALUE: 1
+For this list: piracy.domains V00ALUE: 0
+For this list: spam.filter V00ALUE: 1
+For this list: good_domains V00ALUE: 1
+For this list: phishing.domains V00ALUE: 1
+For this list: facebook.domains V00ALUE: 0
+For this list: drugs.domains V00ALUE: 0
+For this list: news.domains V00ALUE: 0
+For this list: top-10000.domains V00ALUE: 0
+For this list: porn.domains V00ALUE: 0
+For this list: youtube.domains V00ALUE: 0
+For this list: python.keywords V00ALUE: 3
+For this list: torrent.domains V00ALUE: 0
+For this list: compromised_domains V00ALUE: 0
+For this list: vaping.domains V00ALUE: 0
+For this list: top-5000.domains V00ALUE: 0
+For this list: top_domains_list_acceptable V00ALUE: 0
+For this list: stoplist.filter V00ALUE: 74
+For this list: fraud.domains V00ALUE: 0
+For this list: top-1000000.domains V00ALUE: 3
+For this list: bad_domains V00ALUE: 0
+For this list: abuse.domains V00ALUE: 0
+For this list: ransomware.domains V00ALUE: 0
+For this list: smart-tv.domains V00ALUE: 0
+For this list: whatsapp.domains V00ALUE: 0
+For this list: basic.domains V00ALUE: 0
+For this list: gambling.domains V00ALUE: 0
+
+Web-Report  
+
+title: CBC.ca - watch, listen, and discover with Canada's Public Broadcaster
+url: https://www.cbc.ca/
+
+-------------------
+LINK             : 2
+SPAM             : 0
+QUALITY          : 0
+DATA SIZE        : 736 words in html
+
+SPAM    Ratio %  : 0.0
+QUALITY Ratio %  : 0.0
+CONTENT   : 0
+GLOBAL Q  : uncertain
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: twitter.domains V00ALUE: 0
+For this list: top-500.domains V00ALUE: 1
+For this list: ads.domains V00ALUE: 0
+For this list: crypto.domains V00ALUE: 0
+For this list: scam.domains V00ALUE: 0
+For this list: top-20000.domains V00ALUE: 1
+For this list: malware.domains V00ALUE: 1
+For this list: piracy.domains V00ALUE: 0
+For this list: spam.filter V00ALUE: 48
+For this list: good_domains V00ALUE: 2
+For this list: phishing.domains V00ALUE: 1
+For this list: facebook.domains V00ALUE: 0
+For this list: drugs.domains V00ALUE: 0
+For this list: news.domains V00ALUE: 5
+For this list: top-10000.domains V00ALUE: 1
+For this list: porn.domains V00ALUE: 0
+For this list: youtube.domains V00ALUE: 0
+For this list: python.keywords V00ALUE: 40
+For this list: torrent.domains V00ALUE: 1
+For this list: compromised_domains V00ALUE: 0
+For this list: vaping.domains V00ALUE: 0
+For this list: top-5000.domains V00ALUE: 0
+For this list: top_domains_list_acceptable V00ALUE: 1
+For this list: stoplist.filter V00ALUE: 439
+For this list: fraud.domains V00ALUE: 0
+For this list: top-1000000.domains V00ALUE: 9
+For this list: bad_domains V00ALUE: 3
+For this list: abuse.domains V00ALUE: 0
+For this list: ransomware.domains V00ALUE: 0
+For this list: smart-tv.domains V00ALUE: 0
+For this list: whatsapp.domains V00ALUE: 0
+For this list: basic.domains V00ALUE: 0
+For this list: gambling.domains V00ALUE: 0
+
+Web-Report  
+
+title: Stock Markets, Business News, Financials, Earnings - CNBC
+url: https://www.cnbc.com/
+
+-------------------
+LINK             : 4
+SPAM             : 0
+QUALITY          : 0
+DATA SIZE        : 9537 words in html
+
+SPAM    Ratio %  : 0.0
+QUALITY Ratio %  : 0.0
+CONTENT   : 0
+GLOBAL Q  : uncertain
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: twitter.domains V00ALUE: 0
+For this list: top-500.domains V00ALUE: 2
+For this list: ads.domains V00ALUE: 0
+For this list: crypto.domains V00ALUE: 0
+For this list: scam.domains V00ALUE: 0
+For this list: top-20000.domains V00ALUE: 10
+For this list: malware.domains V00ALUE: 1
+For this list: piracy.domains V00ALUE: 0
+For this list: spam.filter V00ALUE: 139
+For this list: good_domains V00ALUE: 10
+For this list: phishing.domains V00ALUE: 1
+For this list: facebook.domains V00ALUE: 0
+For this list: drugs.domains V00ALUE: 0
+For this list: news.domains V00ALUE: 8
+For this list: top-10000.domains V00ALUE: 5
+For this list: porn.domains V00ALUE: 0
+For this list: youtube.domains V00ALUE: 3
+For this list: python.keywords V00ALUE: 121
+For this list: torrent.domains V00ALUE: 0
+For this list: compromised_domains V00ALUE: 0
+For this list: vaping.domains V00ALUE: 0
+For this list: top-5000.domains V00ALUE: 2
+For this list: top_domains_list_acceptable V00ALUE: 1
+For this list: stoplist.filter V00ALUE: 778
+For this list: fraud.domains V00ALUE: 0
+For this list: top-1000000.domains V00ALUE: 24
+For this list: bad_domains V00ALUE: 7
+For this list: abuse.domains V00ALUE: 0
+For this list: ransomware.domains V00ALUE: 0
+For this list: smart-tv.domains V00ALUE: 0
+For this list: whatsapp.domains V00ALUE: 0
+For this list: basic.domains V00ALUE: 0
+For this list: gambling.domains V00ALUE: 0
+
+Web-Report  
+
+title: Consumer Information | Federal Trade Commission
+url: https://www.consumer.ftc.gov/
+
+-------------------
+LINK             : 1
+SPAM             : 0
+QUALITY          : 0
+DATA SIZE        : 527 words in html
+
+SPAM    Ratio %  : 0.0
+QUALITY Ratio %  : 0.0
+CONTENT   : 0
+GLOBAL Q  : uncertain
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: twitter.domains V00ALUE: 0
+For this list: top-500.domains V00ALUE: 2
+For this list: ads.domains V00ALUE: 0
+For this list: crypto.domains V00ALUE: 0
+For this list: scam.domains V00ALUE: 0
+For this list: top-20000.domains V00ALUE: 1
+For this list: malware.domains V00ALUE: 1
+For this list: piracy.domains V00ALUE: 0
+For this list: spam.filter V00ALUE: 28
+For this list: good_domains V00ALUE: 3
+For this list: phishing.domains V00ALUE: 1
+For this list: facebook.domains V00ALUE: 0
+For this list: drugs.domains V00ALUE: 0
+For this list: news.domains V00ALUE: 3
+For this list: top-10000.domains V00ALUE: 1
+For this list: porn.domains V00ALUE: 0
+For this list: youtube.domains V00ALUE: 0
+For this list: python.keywords V00ALUE: 40
+For this list: torrent.domains V00ALUE: 0
+For this list: compromised_domains V00ALUE: 0
+For this list: vaping.domains V00ALUE: 0
+For this list: top-5000.domains V00ALUE: 0
+For this list: top_domains_list_acceptable V00ALUE: 0
+For this list: stoplist.filter V00ALUE: 344
+For this list: fraud.domains V00ALUE: 0
+For this list: top-1000000.domains V00ALUE: 12
+For this list: bad_domains V00ALUE: 3
+For this list: abuse.domains V00ALUE: 0
+For this list: ransomware.domains V00ALUE: 0
+For this list: smart-tv.domains V00ALUE: 0
+For this list: whatsapp.domains V00ALUE: 0
+For this list: basic.domains V00ALUE: 0
+For this list: gambling.domains V00ALUE: 0
+
+Web-Report  
+
+title: DocuSign | #1 in Electronic Signature and Agreement Cloud
+url: https://www.docusign.com/
+
+-------------------
+LINK             : 3
+SPAM             : 0
+QUALITY          : 0
+DATA SIZE        : 1661 words in html
+
+SPAM    Ratio %  : 0.0
+QUALITY Ratio %  : 0.0
+CONTENT   : 0
+GLOBAL Q  : uncertain
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: twitter.domains V00ALUE: 0
+For this list: top-500.domains V00ALUE: 1
+For this list: ads.domains V00ALUE: 0
+For this list: crypto.domains V00ALUE: 0
+For this list: scam.domains V00ALUE: 0
+For this list: top-20000.domains V00ALUE: 2
+For this list: malware.domains V00ALUE: 1
+For this list: piracy.domains V00ALUE: 0
+For this list: spam.filter V00ALUE: 51
+For this list: good_domains V00ALUE: 5
+For this list: phishing.domains V00ALUE: 1
+For this list: facebook.domains V00ALUE: 0
+For this list: drugs.domains V00ALUE: 0
+For this list: news.domains V00ALUE: 4
+For this list: top-10000.domains V00ALUE: 2
+For this list: porn.domains V00ALUE: 0
+For this list: youtube.domains V00ALUE: 0
+For this list: python.keywords V00ALUE: 48
+For this list: torrent.domains V00ALUE: 0
+For this list: compromised_domains V00ALUE: 0
+For this list: vaping.domains V00ALUE: 0
+For this list: top-5000.domains V00ALUE: 0
+For this list: top_domains_list_acceptable V00ALUE: 1
+For this list: stoplist.filter V00ALUE: 429
+For this list: fraud.domains V00ALUE: 0
+For this list: top-1000000.domains V00ALUE: 10
+For this list: bad_domains V00ALUE: 6
+For this list: abuse.domains V00ALUE: 0
+For this list: ransomware.domains V00ALUE: 0
+For this list: smart-tv.domains V00ALUE: 0
+For this list: whatsapp.domains V00ALUE: 0
+For this list: basic.domains V00ALUE: 0
+For this list: gambling.domains V00ALUE: 0
+
+Web-Report  
+
+title: Google
+url: https://www.google.com/
+
+-------------------
+LINK             : 2
+SPAM             : 0
+QUALITY          : 0
+DATA SIZE        : 1111 words in html
+
+SPAM    Ratio %  : 0.0
+QUALITY Ratio %  : 0.0
+CONTENT   : 0
+GLOBAL Q  : uncertain
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: twitter.domains V00ALUE: 0
+For this list: top-500.domains V00ALUE: 2
+For this list: ads.domains V00ALUE: 0
+For this list: crypto.domains V00ALUE: 0
+For this list: scam.domains V00ALUE: 0
+For this list: top-20000.domains V00ALUE: 3
+For this list: malware.domains V00ALUE: 1
+For this list: piracy.domains V00ALUE: 0
+For this list: spam.filter V00ALUE: 32
+For this list: good_domains V00ALUE: 3
+For this list: phishing.domains V00ALUE: 1
+For this list: facebook.domains V00ALUE: 0
+For this list: drugs.domains V00ALUE: 0
+For this list: news.domains V00ALUE: 3
+For this list: top-10000.domains V00ALUE: 3
+For this list: porn.domains V00ALUE: 0
+For this list: youtube.domains V00ALUE: 1
+For this list: python.keywords V00ALUE: 63
+For this list: torrent.domains V00ALUE: 0
+For this list: compromised_domains V00ALUE: 0
+For this list: vaping.domains V00ALUE: 0
+For this list: top-5000.domains V00ALUE: 2
+For this list: top_domains_list_acceptable V00ALUE: 1
+For this list: stoplist.filter V00ALUE: 361
+For this list: fraud.domains V00ALUE: 0
+For this list: top-1000000.domains V00ALUE: 9
+For this list: bad_domains V00ALUE: 4
+For this list: abuse.domains V00ALUE: 0
+For this list: ransomware.domains V00ALUE: 0
+For this list: smart-tv.domains V00ALUE: 0
+For this list: whatsapp.domains V00ALUE: 0
+For this list: basic.domains V00ALUE: 0
+For this list: gambling.domains V00ALUE: 0
+
+Web-Report  
+
+title: Investopedia: Sharper insight, better investing.
+url: https://www.investopedia.com/
+
+-------------------
+LINK             : 3
+SPAM             : 0
+QUALITY          : 0
+DATA SIZE        : 1191 words in html
+
+SPAM    Ratio %  : 0.0
+QUALITY Ratio %  : 0.0
+CONTENT   : 0
+GLOBAL Q  : uncertain
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: twitter.domains V00ALUE: 0
+For this list: top-500.domains V00ALUE: 1
+For this list: ads.domains V00ALUE: 0
+For this list: crypto.domains V00ALUE: 0
+For this list: scam.domains V00ALUE: 0
+For this list: top-20000.domains V00ALUE: 3
+For this list: malware.domains V00ALUE: 1
+For this list: piracy.domains V00ALUE: 0
+For this list: spam.filter V00ALUE: 23
+For this list: good_domains V00ALUE: 4
+For this list: phishing.domains V00ALUE: 1
+For this list: facebook.domains V00ALUE: 0
+For this list: drugs.domains V00ALUE: 0
+For this list: news.domains V00ALUE: 3
+For this list: top-10000.domains V00ALUE: 1
+For this list: porn.domains V00ALUE: 0
+For this list: youtube.domains V00ALUE: 0
+For this list: python.keywords V00ALUE: 24
+For this list: torrent.domains V00ALUE: 0
+For this list: compromised_domains V00ALUE: 0
+For this list: vaping.domains V00ALUE: 0
+For this list: top-5000.domains V00ALUE: 0
+For this list: top_domains_list_acceptable V00ALUE: 1
+For this list: stoplist.filter V00ALUE: 324
+For this list: fraud.domains V00ALUE: 0
+For this list: top-1000000.domains V00ALUE: 7
+For this list: bad_domains V00ALUE: 3
+For this list: abuse.domains V00ALUE: 0
+For this list: ransomware.domains V00ALUE: 0
+For this list: smart-tv.domains V00ALUE: 0
+For this list: whatsapp.domains V00ALUE: 0
+For this list: basic.domains V00ALUE: 0
+For this list: gambling.domains V00ALUE: 0
+
+Web-Report  
+
+title: wikiHow: How-to instructions you can trust.
+url: https://www.wikihow.com/
+
+-------------------
+LINK             : 2
+SPAM             : 0
+QUALITY          : 0
+DATA SIZE        : 3817 words in html
+
+SPAM    Ratio %  : 0.0
+QUALITY Ratio %  : 0.0
+CONTENT   : 0
+GLOBAL Q  : uncertain
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: twitter.domains V00ALUE: 0
+For this list: top-500.domains V00ALUE: 3
+For this list: ads.domains V00ALUE: 0
+For this list: crypto.domains V00ALUE: 0
+For this list: scam.domains V00ALUE: 0
+For this list: top-20000.domains V00ALUE: 6
+For this list: malware.domains V00ALUE: 1
+For this list: piracy.domains V00ALUE: 0
+For this list: spam.filter V00ALUE: 95
+For this list: good_domains V00ALUE: 8
+For this list: phishing.domains V00ALUE: 1
+For this list: facebook.domains V00ALUE: 1
+For this list: drugs.domains V00ALUE: 0
+For this list: news.domains V00ALUE: 6
+For this list: top-10000.domains V00ALUE: 1
+For this list: porn.domains V00ALUE: 0
+For this list: youtube.domains V00ALUE: 3
+For this list: python.keywords V00ALUE: 114
+For this list: torrent.domains V00ALUE: 0
+For this list: compromised_domains V00ALUE: 0
+For this list: vaping.domains V00ALUE: 0
+For this list: top-5000.domains V00ALUE: 0
+For this list: top_domains_list_acceptable V00ALUE: 1
+For this list: stoplist.filter V00ALUE: 664
+For this list: fraud.domains V00ALUE: 1
+For this list: top-1000000.domains V00ALUE: 17
+For this list: bad_domains V00ALUE: 9
+For this list: abuse.domains V00ALUE: 0
+For this list: ransomware.domains V00ALUE: 0
+For this list: smart-tv.domains V00ALUE: 0
+For this list: whatsapp.domains V00ALUE: 0
+For this list: basic.domains V00ALUE: 0
+For this list: gambling.domains V00ALUE: 0
+
+Web-Report  
+
+title: News | Open Source Initiative
+url: http://opensource.org/
+
+-------------------
+LINK             : 0
+SPAM             : 0
+QUALITY          : 0
+DATA SIZE        : 679 words in html
+
+SPAM    Ratio %  : 0.0
+QUALITY Ratio %  : 0.0
+CONTENT   : 0
+GLOBAL Q  : uncertain
+SECURITY  : No information about source
+
+
+----------------------------------
+
+
+For this list: twitter.domains V00ALUE: 0
+For this list: top-500.domains V00ALUE: 0
+For this list: ads.domains V00ALUE: 0
+For this list: crypto.domains V00ALUE: 0
+For this list: scam.domains V00ALUE: 0
+For this list: top-20000.domains V00ALUE: 1
+For this list: malware.domains V00ALUE: 1
+For this list: piracy.domains V00ALUE: 0
+For this list: spam.filter V00ALUE: 39
+For this list: good_domains V00ALUE: 3
+For this list: phishing.domains V00ALUE: 1
+For this list: facebook.domains V00ALUE: 0
+For this list: drugs.domains V00ALUE: 0
+For this list: news.domains V00ALUE: 6
+For this list: top-10000.domains V00ALUE: 1
+For this list: porn.domains V00ALUE: 0
+For this list: youtube.domains V00ALUE: 0
+For this list: python.keywords V00ALUE: 28
+For this list: torrent.domains V00ALUE: 0
+For this list: compromised_domains V00ALUE: 0
+For this list: vaping.domains V00ALUE: 0
+For this list: top-5000.domains V00ALUE: 0
+For this list: top_domains_list_acceptable V00ALUE: 0
+For this list: stoplist.filter V00ALUE: 384
+For this list: fraud.domains V00ALUE: 0
+For this list: top-1000000.domains V00ALUE: 7
+For this list: bad_domains V00ALUE: 7
+For this list: abuse.domains V00ALUE: 0
+For this list: ransomware.domains V00ALUE: 0
+For this list: smart-tv.domains V00ALUE: 0
+For this list: whatsapp.domains V00ALUE: 0
+For this list: basic.domains V00ALUE: 0
+For this list: gambling.domains V00ALUE: 0
+
+Web-Report  
+
+title: Bitcoin - Open source P2P money
+url: https://bitcoin.org/
+
+-------------------
+LINK             : 1
+SPAM             : 0
+QUALITY          : 0
+DATA SIZE        : 731 words in html
+
+SPAM    Ratio %  : 0.0
+QUALITY Ratio %  : 0.0
+CONTENT   : 0
+GLOBAL Q  : uncertain
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: twitter.domains V00ALUE: 0
+For this list: top-500.domains V00ALUE: 0
+For this list: ads.domains V00ALUE: 0
+For this list: crypto.domains V00ALUE: 2
+For this list: scam.domains V00ALUE: 0
+For this list: top-20000.domains V00ALUE: 1
+For this list: malware.domains V00ALUE: 1
+For this list: piracy.domains V00ALUE: 0
+For this list: spam.filter V00ALUE: 24
+For this list: good_domains V00ALUE: 6
+For this list: phishing.domains V00ALUE: 1
+For this list: facebook.domains V00ALUE: 0
+For this list: drugs.domains V00ALUE: 0
+For this list: news.domains V00ALUE: 2
+For this list: top-10000.domains V00ALUE: 1
+For this list: porn.domains V00ALUE: 0
+For this list: youtube.domains V00ALUE: 0
+For this list: python.keywords V00ALUE: 36
+For this list: torrent.domains V00ALUE: 0
+For this list: compromised_domains V00ALUE: 0
+For this list: vaping.domains V00ALUE: 0
+For this list: top-5000.domains V00ALUE: 0
+For this list: top_domains_list_acceptable V00ALUE: 0
+For this list: stoplist.filter V00ALUE: 327
+For this list: fraud.domains V00ALUE: 0
+For this list: top-1000000.domains V00ALUE: 7
+For this list: bad_domains V00ALUE: 5
+For this list: abuse.domains V00ALUE: 0
+For this list: ransomware.domains V00ALUE: 0
+For this list: smart-tv.domains V00ALUE: 0
+For this list: whatsapp.domains V00ALUE: 0
+For this list: basic.domains V00ALUE: 0
+For this list: gambling.domains V00ALUE: 0
+
+Web-Report  
+
+title: Getting Started — Bitcoin
+url: https://developer.bitcoin.org/
+
+-------------------
+LINK             : 1
+SPAM             : 0
+QUALITY          : 0
+DATA SIZE        : 3445 words in html
+
+SPAM    Ratio %  : 0.0
+QUALITY Ratio %  : 0.0
+CONTENT   : 0
+GLOBAL Q  : uncertain
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: twitter.domains V00ALUE: 0
+For this list: top-500.domains V00ALUE: 0
+For this list: ads.domains V00ALUE: 0
+For this list: crypto.domains V00ALUE: 2
+For this list: scam.domains V00ALUE: 0
+For this list: top-20000.domains V00ALUE: 1
+For this list: malware.domains V00ALUE: 1
+For this list: piracy.domains V00ALUE: 0
+For this list: spam.filter V00ALUE: 42
+For this list: good_domains V00ALUE: 5
+For this list: phishing.domains V00ALUE: 1
+For this list: facebook.domains V00ALUE: 0
+For this list: drugs.domains V00ALUE: 0
+For this list: news.domains V00ALUE: 5
+For this list: top-10000.domains V00ALUE: 1
+For this list: porn.domains V00ALUE: 0
+For this list: youtube.domains V00ALUE: 0
+For this list: python.keywords V00ALUE: 60
+For this list: torrent.domains V00ALUE: 0
+For this list: compromised_domains V00ALUE: 0
+For this list: vaping.domains V00ALUE: 0
+For this list: top-5000.domains V00ALUE: 0
+For this list: top_domains_list_acceptable V00ALUE: 0
+For this list: stoplist.filter V00ALUE: 495
+For this list: fraud.domains V00ALUE: 0
+-------------------
+
+Web-Report  
+-------------------
+title: SSL Certificate Types | Types of SSL Certificates by Sectigo
+url: https://sectigostore.com/ssl-types
+
+-------------------
+LINK             : 0
+SPAM             : 0
+CONTENT   : 0
+GLOBAL Q  : uncertain
+SECURITY  : No information about source
+
+
+----------------------------------
+
+
+For this list: twitter.domains V00ALUE: 0
+For this list: top-500.domains V00ALUE: 0
+For this list: ads.domains V00ALUE: 0
+For this list: crypto.domains V00ALUE: 0
+For this list: scam.domains V00ALUE: 0
+For this list: top-20000.domains V00ALUE: 0
+For this list: malware.domains V00ALUE: 1
+For this list: piracy.domains V00ALUE: 0
+For this list: spam.filter V00ALUE: 54
+For this list: good_domains V00ALUE: 1
+For this list: phishing.domains V00ALUE: 1
+For this list: facebook.domains V00ALUE: 0
+For this list: drugs.domains V00ALUE: 0
+For this list: news.domains V00ALUE: 3
+For this list: top-10000.domains V00ALUE: 0
+For this list: porn.domains V00ALUE: 0
+For this list: youtube.domains V00ALUE: 1
+For this list: python.keywords V00ALUE: 64
+For this list: torrent.domains V00ALUE: 0
+For this list: compromised_domains V00ALUE: 0
+For this list: vaping.domains V00ALUE: 0
+For this list: top-5000.domains V00ALUE: 0
+For this list: top_domains_list_acceptable V00ALUE: 0
+For this list: stoplist.filter V00ALUE: 428
+For this list: fraud.domains V00ALUE: 0
+For this list: top-1000000.domains V00ALUE: 10
+For this list: bad_domains V00ALUE: 3
+For this list: abuse.domains V00ALUE: 0
+For this list: ransomware.domains V00ALUE: 0
+For this list: smart-tv.domains V00ALUE: 0
+For this list: whatsapp.domains V00ALUE: 0
+For this list: basic.domains V00ALUE: 0
+For this list: gambling.domains V00ALUE: 0
+-------------------
+
+Web-Report  
+-------------------
+title: Sectigo Website Security Products | Malware & PCI Scanning Solutions
+url: https://sectigostore.com/website-security
+
+-------------------
+LINK             : 0
+SPAM             : 0
+CONTENT   : 0
+GLOBAL Q  : uncertain
+SECURITY  : No information about source
+
+
+----------------------------------
+
+
+For this list: twitter.domains V00ALUE: 0
+For this list: top-500.domains V00ALUE: 0
+For this list: ads.domains V00ALUE: 0
+For this list: crypto.domains V00ALUE: 0
+For this list: scam.domains V00ALUE: 0
+For this list: top-20000.domains V00ALUE: 1
+For this list: malware.domains V00ALUE: 1
+For this list: piracy.domains V00ALUE: 0
+For this list: spam.filter V00ALUE: 58
+For this list: good_domains V00ALUE: 4
+For this list: phishing.domains V00ALUE: 1
+For this list: facebook.domains V00ALUE: 0
+For this list: drugs.domains V00ALUE: 0
+For this list: news.domains V00ALUE: 3
+For this list: top-10000.domains V00ALUE: 1
+For this list: porn.domains V00ALUE: 0
+For this list: youtube.domains V00ALUE: 1
+For this list: python.keywords V00ALUE: 46
+For this list: torrent.domains V00ALUE: 0
+For this list: compromised_domains V00ALUE: 0
+For this list: vaping.domains V00ALUE: 0
+For this list: top-5000.domains V00ALUE: 0
+For this list: top_domains_list_acceptable V00ALUE: 0
+For this list: stoplist.filter V00ALUE: 447
+For this list: fraud.domains V00ALUE: 0
+For this list: top-1000000.domains V00ALUE: 8
+For this list: bad_domains V00ALUE: 6
+For this list: abuse.domains V00ALUE: 0
+For this list: ransomware.domains V00ALUE: 0
+For this list: smart-tv.domains V00ALUE: 0
+For this list: whatsapp.domains V00ALUE: 0
+For this list: basic.domains V00ALUE: 0
+For this list: gambling.domains V00ALUE: 0
+-------------------
+
+Web-Report  
+-------------------
+title: Google Transparency Report
+url: https://transparencyreport.google.com/safe-browsing/search
+
+-------------------
+LINK             : 2
+SPAM             : 0
+CONTENT   : 0
+GLOBAL Q  : uncertain
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: twitter.domains V00ALUE: 0
+For this list: top-500.domains V00ALUE: 0
+For this list: ads.domains V00ALUE: 0
+For this list: crypto.domains V00ALUE: 0
+For this list: scam.domains V00ALUE: 0
+For this list: top-20000.domains V00ALUE: 1
+For this list: malware.domains V00ALUE: 1
+For this list: piracy.domains V00ALUE: 0
+For this list: spam.filter V00ALUE: 1
+For this list: good_domains V00ALUE: 1
+For this list: phishing.domains V00ALUE: 1
+For this list: facebook.domains V00ALUE: 0
+For this list: drugs.domains V00ALUE: 0
+For this list: news.domains V00ALUE: 1
+For this list: top-10000.domains V00ALUE: 1
+For this list: porn.domains V00ALUE: 0
+For this list: youtube.domains V00ALUE: 0
+For this list: python.keywords V00ALUE: 1
+For this list: torrent.domains V00ALUE: 0
+For this list: compromised_domains V00ALUE: 0
+For this list: vaping.domains V00ALUE: 0
+For this list: top-5000.domains V00ALUE: 1
+For this list: top_domains_list_acceptable V00ALUE: 1
+For this list: stoplist.filter V00ALUE: 88
+For this list: fraud.domains V00ALUE: 0
+For this list: top-1000000.domains V00ALUE: 2
+For this list: bad_domains V00ALUE: 0
+For this list: abuse.domains V00ALUE: 0
+For this list: ransomware.domains V00ALUE: 0
+For this list: smart-tv.domains V00ALUE: 0
+For this list: whatsapp.domains V00ALUE: 0
+For this list: basic.domains V00ALUE: 0
+For this list: gambling.domains V00ALUE: 0
+-------------------
+
+Web-Report  
+-------------------
+title: 
+	BBB Scam Tracker℠  | Find and Report a Scam | Better Business Bureau
+
+url: https://www.bbb.org/scamtracker/us/
+
+-------------------
+LINK             : 1
+SPAM             : 0
+CONTENT   : 0
+GLOBAL Q  : uncertain
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: twitter.domains V00ALUE: 0
+For this list: top-500.domains V00ALUE: 0
+For this list: ads.domains V00ALUE: 0
+For this list: crypto.domains V00ALUE: 0
+For this list: scam.domains V00ALUE: 0
+For this list: top-20000.domains V00ALUE: 3
+For this list: malware.domains V00ALUE: 3
+For this list: piracy.domains V00ALUE: 0
+For this list: spam.filter V00ALUE: 49
+For this list: good_domains V00ALUE: 3
+For this list: phishing.domains V00ALUE: 1
+For this list: facebook.domains V00ALUE: 0
+For this list: drugs.domains V00ALUE: 0
+For this list: news.domains V00ALUE: 5
+For this list: top-10000.domains V00ALUE: 3
+For this list: porn.domains V00ALUE: 0
+For this list: youtube.domains V00ALUE: 0
+For this list: python.keywords V00ALUE: 27
+For this list: torrent.domains V00ALUE: 0
+For this list: compromised_domains V00ALUE: 0
+For this list: vaping.domains V00ALUE: 0
+For this list: top-5000.domains V00ALUE: 0
+For this list: top_domains_list_acceptable V00ALUE: 0
+For this list: stoplist.filter V00ALUE: 380
+For this list: fraud.domains V00ALUE: 0
+For this list: top-1000000.domains V00ALUE: 11
+For this list: bad_domains V00ALUE: 3
+For this list: abuse.domains V00ALUE: 2
+For this list: ransomware.domains V00ALUE: 0
+For this list: smart-tv.domains V00ALUE: 0
+For this list: whatsapp.domains V00ALUE: 0
+For this list: basic.domains V00ALUE: 0
+For this list: gambling.domains V00ALUE: 0
+-------------------
+
+Web-Report  
+-------------------
+title: Google Code
+url: http://code.google.com/
+
+-------------------
+LINK             : 3
+SPAM             : 0
+CONTENT   : 0
+GLOBAL Q  : uncertain
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: twitter.domains V00ALUE: 0
+For this list: top-500.domains V00ALUE: 3
+For this list: ads.domains V00ALUE: 0
+For this list: crypto.domains V00ALUE: 0
+For this list: scam.domains V00ALUE: 0
+For this list: top-20000.domains V00ALUE: 3
+For this list: malware.domains V00ALUE: 1
+For this list: piracy.domains V00ALUE: 0
+For this list: spam.filter V00ALUE: 18
+For this list: good_domains V00ALUE: 9
+For this list: phishing.domains V00ALUE: 1
+For this list: facebook.domains V00ALUE: 0
+For this list: drugs.domains V00ALUE: 0
+For this list: news.domains V00ALUE: 4
+For this list: top-10000.domains V00ALUE: 2
+For this list: porn.domains V00ALUE: 0
+For this list: youtube.domains V00ALUE: 0
+For this list: python.keywords V00ALUE: 26
+For this list: torrent.domains V00ALUE: 0
+For this list: compromised_domains V00ALUE: 0
+For this list: vaping.domains V00ALUE: 0
+For this list: top-5000.domains V00ALUE: 2
+For this list: top_domains_list_acceptable V00ALUE: 2
+For this list: stoplist.filter V00ALUE: 238
+For this list: fraud.domains V00ALUE: 0
+For this list: top-1000000.domains V00ALUE: 7
+For this list: bad_domains V00ALUE: 6
+For this list: abuse.domains V00ALUE: 0
+For this list: ransomware.domains V00ALUE: 0
+For this list: smart-tv.domains V00ALUE: 0
+For this list: whatsapp.domains V00ALUE: 0
+For this list: basic.domains V00ALUE: 0
+For this list: gambling.domains V00ALUE: 0
+-------------------
+
+Web-Report  
+-------------------
+title: Programmable Search Engine by Google
+url: https://cse.google.com/
+
+-------------------
+LINK             : 3
+SPAM             : 0
+CONTENT   : 0
+GLOBAL Q  : uncertain
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: twitter.domains V00ALUE: 0
+For this list: top-500.domains V00ALUE: 0
+For this list: ads.domains V00ALUE: 0
+For this list: crypto.domains V00ALUE: 0
+For this list: scam.domains V00ALUE: 0
+For this list: top-20000.domains V00ALUE: 3
+For this list: malware.domains V00ALUE: 1
+For this list: piracy.domains V00ALUE: 0
+For this list: spam.filter V00ALUE: 19
+For this list: good_domains V00ALUE: 3
+For this list: phishing.domains V00ALUE: 1
+For this list: facebook.domains V00ALUE: 0
+For this list: drugs.domains V00ALUE: 0
+For this list: news.domains V00ALUE: 1
+For this list: top-10000.domains V00ALUE: 3
+For this list: porn.domains V00ALUE: 0
+For this list: youtube.domains V00ALUE: 0
+For this list: python.keywords V00ALUE: 7
+For this list: torrent.domains V00ALUE: 0
+For this list: compromised_domains V00ALUE: 0
+For this list: vaping.domains V00ALUE: 0
+For this list: top-5000.domains V00ALUE: 2
+For this list: top_domains_list_acceptable V00ALUE: 1
+For this list: stoplist.filter V00ALUE: 277
+For this list: fraud.domains V00ALUE: 0
+For this list: top-1000000.domains V00ALUE: 6
+For this list: bad_domains V00ALUE: 1
+For this list: abuse.domains V00ALUE: 0
+For this list: ransomware.domains V00ALUE: 0
+For this list: smart-tv.domains V00ALUE: 0
+For this list: whatsapp.domains V00ALUE: 0
+For this list: basic.domains V00ALUE: 0
+For this list: gambling.domains V00ALUE: 0
+-------------------
+
+Web-Report  
+-------------------
+title: Help for your Yahoo Account
+url: https://help.yahoo.com/
+
+-------------------
+LINK             : 3
+SPAM             : 0
+CONTENT   : 0
+GLOBAL Q  : uncertain
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: twitter.domains V00ALUE: 0
+For this list: top-500.domains V00ALUE: 2
+For this list: ads.domains V00ALUE: 0
+For this list: crypto.domains V00ALUE: 0
+For this list: scam.domains V00ALUE: 0
+For this list: top-20000.domains V00ALUE: 7
+For this list: malware.domains V00ALUE: 1
+For this list: piracy.domains V00ALUE: 0
+For this list: spam.filter V00ALUE: 63
+For this list: good_domains V00ALUE: 8
+For this list: phishing.domains V00ALUE: 1
+For this list: facebook.domains V00ALUE: 0
+For this list: drugs.domains V00ALUE: 0
+For this list: news.domains V00ALUE: 7
+For this list: top-10000.domains V00ALUE: 5
+For this list: porn.domains V00ALUE: 0
+For this list: youtube.domains V00ALUE: 3
+For this list: python.keywords V00ALUE: 93
+For this list: torrent.domains V00ALUE: 0
+For this list: compromised_domains V00ALUE: 0
+For this list: vaping.domains V00ALUE: 0
+For this list: top-5000.domains V00ALUE: 4
+For this list: top_domains_list_acceptable V00ALUE: 1
+For this list: stoplist.filter V00ALUE: 561
+For this list: fraud.domains V00ALUE: 0
+For this list: top-1000000.domains V00ALUE: 18
+For this list: bad_domains V00ALUE: 6
+For this list: abuse.domains V00ALUE: 0
+For this list: ransomware.domains V00ALUE: 0
+For this list: smart-tv.domains V00ALUE: 0
+For this list: whatsapp.domains V00ALUE: 0
+For this list: basic.domains V00ALUE: 0
+For this list: gambling.domains V00ALUE: 0
+-------------------
+
+Web-Report  
+-------------------
+title: State of California - Department of Justice - Office of the Attorney General
+url: https://oag.ca.gov/
+
+-------------------
+LINK             : 3
+SPAM             : 0
+CONTENT   : 0
+GLOBAL Q  : uncertain
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: twitter.domains V00ALUE: 0
+For this list: top-500.domains V00ALUE: 2
+For this list: ads.domains V00ALUE: 0
+For this list: crypto.domains V00ALUE: 0
+For this list: scam.domains V00ALUE: 0
+For this list: top-20000.domains V00ALUE: 3
+For this list: malware.domains V00ALUE: 1
+For this list: piracy.domains V00ALUE: 0
+For this list: spam.filter V00ALUE: 71
+For this list: good_domains V00ALUE: 7
+For this list: phishing.domains V00ALUE: 1
+For this list: facebook.domains V00ALUE: 0
+For this list: drugs.domains V00ALUE: 0
+For this list: news.domains V00ALUE: 11
+For this list: top-10000.domains V00ALUE: 3
+For this list: porn.domains V00ALUE: 0
+For this list: youtube.domains V00ALUE: 1
+For this list: python.keywords V00ALUE: 78
+For this list: torrent.domains V00ALUE: 0
+For this list: compromised_domains V00ALUE: 0
+For this list: vaping.domains V00ALUE: 0
+For this list: top-5000.domains V00ALUE: 0
+For this list: top_domains_list_acceptable V00ALUE: 2
+For this list: stoplist.filter V00ALUE: 550
+For this list: fraud.domains V00ALUE: 0
+For this list: top-1000000.domains V00ALUE: 13
+For this list: bad_domains V00ALUE: 6
+For this list: abuse.domains V00ALUE: 0
+For this list: ransomware.domains V00ALUE: 0
+For this list: smart-tv.domains V00ALUE: 0
+For this list: whatsapp.domains V00ALUE: 0
+For this list: basic.domains V00ALUE: 0
+For this list: gambling.domains V00ALUE: 0
+-------------------
+
+Web-Report  
+-------------------
+title: Buy Sectigo SSL/TLS Certificates - Save 82% | Formerly Comodo CA
+url: https://sectigostore.com/
+
+-------------------
+LINK             : 0
+SPAM             : 0
+CONTENT   : 0
+GLOBAL Q  : uncertain
+SECURITY  : No information about source
+
+
+----------------------------------
+
+
+For this list: twitter.domains V00ALUE: 0
+For this list: top-500.domains V00ALUE: 0
+For this list: ads.domains V00ALUE: 0
+For this list: crypto.domains V00ALUE: 0
+For this list: scam.domains V00ALUE: 0
+For this list: top-20000.domains V00ALUE: 1
+For this list: malware.domains V00ALUE: 1
+For this list: piracy.domains V00ALUE: 0
+For this list: spam.filter V00ALUE: 116
+For this list: good_domains V00ALUE: 5
+For this list: phishing.domains V00ALUE: 1
+For this list: facebook.domains V00ALUE: 0
+For this list: drugs.domains V00ALUE: 0
+For this list: news.domains V00ALUE: 3
+For this list: top-10000.domains V00ALUE: 1
+For this list: porn.domains V00ALUE: 0
+For this list: youtube.domains V00ALUE: 1
+For this list: python.keywords V00ALUE: 97
+For this list: torrent.domains V00ALUE: 0
+For this list: compromised_domains V00ALUE: 0
+For this list: vaping.domains V00ALUE: 0
+For this list: top-5000.domains V00ALUE: 0
+For this list: top_domains_list_acceptable V00ALUE: 0
+For this list: stoplist.filter V00ALUE: 678
+For this list: fraud.domains V00ALUE: 0
+For this list: top-1000000.domains V00ALUE: 15
+For this list: bad_domains V00ALUE: 8
+For this list: abuse.domains V00ALUE: 0
+For this list: ransomware.domains V00ALUE: 0
+For this list: smart-tv.domains V00ALUE: 0
+For this list: whatsapp.domains V00ALUE: 0
+For this list: basic.domains V00ALUE: 0
+For this list: gambling.domains V00ALUE: 0
+-------------------
+
+Web-Report  
+-------------------
+title: Canada.ca
+url: https://www.canada.ca/
+
+-------------------
+LINK             : 1
+SPAM             : 0
+CONTENT   : 0
+GLOBAL Q  : uncertain
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: twitter.domains V00ALUE: 0
+For this list: top-500.domains V00ALUE: 1
+For this list: ads.domains V00ALUE: 0
+For this list: crypto.domains V00ALUE: 0
+For this list: scam.domains V00ALUE: 0
+For this list: top-20000.domains V00ALUE: 0
+For this list: malware.domains V00ALUE: 1
+For this list: piracy.domains V00ALUE: 0
+For this list: spam.filter V00ALUE: 1
+For this list: good_domains V00ALUE: 1
+For this list: phishing.domains V00ALUE: 1
+For this list: facebook.domains V00ALUE: 0
+For this list: drugs.domains V00ALUE: 0
+For this list: news.domains V00ALUE: 0
+For this list: top-10000.domains V00ALUE: 0
+For this list: porn.domains V00ALUE: 0
+For this list: youtube.domains V00ALUE: 0
+For this list: python.keywords V00ALUE: 3
+For this list: torrent.domains V00ALUE: 0
+For this list: compromised_domains V00ALUE: 0
+For this list: vaping.domains V00ALUE: 0
+For this list: top-5000.domains V00ALUE: 0
+For this list: top_domains_list_acceptable V00ALUE: 0
+For this list: stoplist.filter V00ALUE: 74
+For this list: fraud.domains V00ALUE: 0
+For this list: top-1000000.domains V00ALUE: 3
+For this list: bad_domains V00ALUE: 0
+For this list: abuse.domains V00ALUE: 0
+For this list: ransomware.domains V00ALUE: 0
+For this list: smart-tv.domains V00ALUE: 0
+For this list: whatsapp.domains V00ALUE: 0
+For this list: basic.domains V00ALUE: 0
+For this list: gambling.domains V00ALUE: 0
+-------------------
+
+Web-Report  
+-------------------
+title: CBC.ca - watch, listen, and discover with Canada's Public Broadcaster
+url: https://www.cbc.ca/
+
+-------------------
+LINK             : 2
+SPAM             : 0
+CONTENT   : 0
+GLOBAL Q  : uncertain
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: twitter.domains V00ALUE: 0
+For this list: top-500.domains V00ALUE: 1
+For this list: ads.domains V00ALUE: 0
+For this list: crypto.domains V00ALUE: 0
+For this list: scam.domains V00ALUE: 0
+For this list: top-20000.domains V00ALUE: 1
+For this list: malware.domains V00ALUE: 1
+For this list: piracy.domains V00ALUE: 0
+For this list: spam.filter V00ALUE: 44
+For this list: good_domains V00ALUE: 3
+For this list: phishing.domains V00ALUE: 1
+For this list: facebook.domains V00ALUE: 0
+For this list: drugs.domains V00ALUE: 0
+For this list: news.domains V00ALUE: 5
+For this list: top-10000.domains V00ALUE: 1
+For this list: porn.domains V00ALUE: 0
+For this list: youtube.domains V00ALUE: 0
+For this list: python.keywords V00ALUE: 45
+For this list: torrent.domains V00ALUE: 1
+For this list: compromised_domains V00ALUE: 0
+For this list: vaping.domains V00ALUE: 0
+For this list: top-5000.domains V00ALUE: 0
+For this list: top_domains_list_acceptable V00ALUE: 1
+For this list: stoplist.filter V00ALUE: 438
+For this list: fraud.domains V00ALUE: 0
+For this list: top-1000000.domains V00ALUE: 10
+For this list: bad_domains V00ALUE: 4
+For this list: abuse.domains V00ALUE: 0
+For this list: ransomware.domains V00ALUE: 0
+For this list: smart-tv.domains V00ALUE: 0
+For this list: whatsapp.domains V00ALUE: 0
+For this list: basic.domains V00ALUE: 0
+For this list: gambling.domains V00ALUE: 0
+-------------------
+
+Web-Report  
+-------------------
+title: Stock Markets, Business News, Financials, Earnings - CNBC
+url: https://www.cnbc.com/
+
+-------------------
+LINK             : 4
+SPAM             : 0
+CONTENT   : 0
+GLOBAL Q  : uncertain
+SECURITY  : Safe Site - you can trust this source
+
+
+----------------------------------
+
+
+For this list: twitter.domains V00ALUE: 0
+For this list: top-500.domains V00ALUE: 2
