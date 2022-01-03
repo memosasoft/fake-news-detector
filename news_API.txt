@@ -10,3 +10,18 @@ We post API status updates and other news on our Twitter feed, so please follow 
 Follow @NewsAPIorg
 
 GET https://newsapi.org/v2/everything?q=Apple&from=2021-12-31&sortBy=popularity&apiKey=1456d6730b004831a5adfb81260d0536
+
+
+______________________________________________________
+
+
+public-api-lists
+Public API Lists
+
+Stars Fork Issues PRs Welcome
+
+A collective list of free APIs for use in software and web development.
+
+For information on contributing to this project, please see the contributing guide.
+
+https://public-api-lists.github.io/public-api-lists/
