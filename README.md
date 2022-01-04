@@ -3,23 +3,17 @@ Looking for a helpful list to add to my fake news detector.
 
 **Hypothesis**
 The main idea to fight fake news is to look at the authority
-that is transmitting the news event. I am working on a system
-that can juge of the quality of an internet source. If we can
-verify the source we are on the right track for building a
-fake news detector.
+that is transmitting the news event. 
 
 **Help the project and join the team :
   if you have a list your in...**
 
-- FRIENDLY LISTS
 - BLACKLIST
 - WHITELIST
-- URL DOMAIN LISTS
-- CONCEPTS AND CATEGORIES LIST
 - STOPLIST
 - SPAM FILTERS
 - AD FILTERS
-- TRUSTED URL LIST  
+- TRUSTED URL  
 - TOP-DOMAINS
 
 **Lists, lists and more lists...**
